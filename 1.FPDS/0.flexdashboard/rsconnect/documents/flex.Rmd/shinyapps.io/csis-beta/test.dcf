@@ -1,0 +1,10 @@
+name: test
+account: csis-beta
+server: shinyapps.io
+appId: 135327
+bundleId: 605958
+url: https://csis-beta.shinyapps.io/test/
+when: 1478285288.16627
+asMultiple: TRUE
+asStatic: FALSE
+ignoredFiles: logo 5.png|app.R|2.R|3.R|4.R|flex - Copy.Rmd

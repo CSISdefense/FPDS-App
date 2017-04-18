@@ -1,0 +1,10 @@
+name: gsf16
+account: csis
+server: shinyapps.io
+appId: 141206
+bundleId: 630777
+url: https://csis.shinyapps.io/gsf16/
+when: 1480537045.30103
+asMultiple: TRUE
+asStatic: FALSE
+ignoredFiles: logo-6.png|app.attempt.R|6a.R|5a.R|2a.R|3a.R|4a.R|flex - backup.Rmd|logo 5.png|app.R|2.R|3.R|4.R|flex - Copy.Rmd

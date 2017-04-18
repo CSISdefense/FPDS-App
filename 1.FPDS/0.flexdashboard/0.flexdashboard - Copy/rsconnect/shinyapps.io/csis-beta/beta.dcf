@@ -1,0 +1,9 @@
+name: beta
+account: csis-beta
+server: shinyapps.io
+appId: 135599
+bundleId: 604951
+url: https://csis-beta.shinyapps.io/beta/
+when: 1478206500.0163
+asMultiple: FALSE
+asStatic: FALSE

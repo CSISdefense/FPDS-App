@@ -1,0 +1,2050 @@
+FY,Customer,Breakout,Category,Amount
+2000,Air Force,Aircraft,Products,13869260053.0
+2000,Air Force,Clothing & Subsistence,Products,64888371.0
+2000,Air Force,Electronics & Communications,Products,3310228032.0
+2000,Air Force,Engines & Power Plants,Products,2915149015.0
+2000,Air Force,ERS,Services,3541145375.0
+2000,Air Force,FRS&C,Services,4525005886.0
+2000,Air Force,Fuels,Products,49644684.0
+2000,Air Force,Ground Vehicles,Products,87133909.0
+2000,Air Force,ICT,Services,2554673936.0
+2000,Air Force,Launchers & Munitions,Products,648996408.0
+2000,Air Force,MED,Services,21923638.0
+2000,Air Force,Missiles & Space,Products,803057575.0
+2000,Air Force,Other,Products,2491084388.0
+2000,Air Force,PAMS,Services,8083374527.0
+2000,Air Force,Adv. Component Dev. & Prototypes (6.4),R&D,2211242632.0
+2000,Air Force,Adv. Technology Dev. (6.3),R&D,2272633597.0
+2000,Air Force,Applied Research (6.2),R&D,1261576985.0
+2000,Air Force,Basic Research (6.1),R&D,262518119.0
+2000,Air Force,Operation of Government R&D Facilities,R&D,92575385.0
+2000,Air Force,Operational Systems Dev. (6.7),R&D,25335987.0
+2000,Air Force,System Dev. & Demonstration (6.5),R&D,4564616889.0
+2000,Air Force,Ships,Products,9205043.0
+2000,Army,Aircraft,Products,2759050019.0
+2000,Army,Clothing & Subsistence,Products,416809714.0
+2000,Army,Electronics & Communications,Products,3506385690.0
+2000,Army,Engines & Power Plants,Products,1150979008.0
+2000,Army,ERS,Services,1993917159.0
+2000,Army,FRS&C,Services,12898757390.0
+2000,Army,Fuels,Products,6990593.0
+2000,Army,Ground Vehicles,Products,4427021254.0
+2000,Army,ICT,Services,2636738704.0
+2000,Army,Launchers & Munitions,Products,2132461971.0
+2000,Army,MED,Services,964214725.0
+2000,Army,Missiles & Space,Products,3000257632.0
+2000,Army,Other,Products,1875506440.0
+2000,Army,PAMS,Services,8140836905.0
+2000,Army,Adv. Component Dev. & Prototypes (6.4),R&D,1221515715.0
+2000,Army,Adv. Technology Dev. (6.3),R&D,1860469978.0
+2000,Army,Applied Research (6.2),R&D,845174747.0
+2000,Army,Basic Research (6.1),R&D,1091034587.0
+2000,Army,Operation of Government R&D Facilities,R&D,13746550.0
+2000,Army,Operational Systems Dev. (6.7),R&D,127698489.0
+2000,Army,System Dev. & Demonstration (6.5),R&D,905153734.0
+2000,Army,Ships,Products,35997466.0
+2000,DLA,Aircraft,Products,687801050.0
+2000,DLA,Clothing & Subsistence,Products,3336078220.0
+2000,DLA,Electronics & Communications,Products,666466546.0
+2000,DLA,Engines & Power Plants,Products,821629029.0
+2000,DLA,ERS,Services,66580608.0
+2000,DLA,FRS&C,Services,225464849.0
+2000,DLA,Fuels,Products,4940523279.0
+2000,DLA,Ground Vehicles,Products,231871161.0
+2000,DLA,ICT,Services,337019112.0
+2000,DLA,Launchers & Munitions,Products,43887126.0
+2000,DLA,MED,Services,2282187.0
+2000,DLA,Missiles & Space,Products,11319771.0
+2000,DLA,Other,Products,1772114915.0
+2000,DLA,PAMS,Services,248461712.0
+2000,DLA,Applied Research (6.2),R&D,24924031.0
+2000,DLA,Basic Research (6.1),R&D,90683389.0
+2000,DLA,Operational Systems Dev. (6.7),R&D,316399.0
+2000,DLA,System Dev. & Demonstration (6.5),R&D,5275424.0
+2000,DLA,Ships,Products,32390325.0
+2000,MDA,Electronics & Communications,Products,576824.0
+2000,MDA,FRS&C,Services,70578.0
+2000,MDA,ICT,Services,7739452.0
+2000,MDA,PAMS,Services,1060821.0
+2000,MDA,Adv. Technology Dev. (6.3),R&D,1932071544.0
+2000,MDA,Applied Research (6.2),R&D,874619.0
+2000,Navy,Aircraft,Products,8068716115.0
+2000,Navy,Clothing & Subsistence,Products,97201917.0
+2000,Navy,Electronics & Communications,Products,4487350674.0
+2000,Navy,Engines & Power Plants,Products,2340387540.0
+2000,Navy,ERS,Services,6178446904.0
+2000,Navy,FRS&C,Services,5997874038.0
+2000,Navy,Fuels,Products,7613611.0
+2000,Navy,Ground Vehicles,Products,188200376.0
+2000,Navy,ICT,Services,2023942853.0
+2000,Navy,Launchers & Munitions,Products,1457250134.0
+2000,Navy,MED,Services,198989611.0
+2000,Navy,Missiles & Space,Products,2615804130.0
+2000,Navy,Other,Products,1839565112.0
+2000,Navy,PAMS,Services,8792157198.0
+2000,Navy,Adv. Component Dev. & Prototypes (6.4),R&D,1150286726.0
+2000,Navy,Adv. Technology Dev. (6.3),R&D,1158077587.0
+2000,Navy,Applied Research (6.2),R&D,913284538.0
+2000,Navy,Basic Research (6.1),R&D,892907452.0
+2000,Navy,Operation of Government R&D Facilities,R&D,836518771.0
+2000,Navy,Operational Systems Dev. (6.7),R&D,672113545.0
+2000,Navy,System Dev. & Demonstration (6.5),R&D,1553377721.0
+2000,Navy,Ships,Products,5754385221.0
+2000,Other DoD,Aircraft,Products,87632190.0
+2000,Other DoD,Clothing & Subsistence,Products,24263737.0
+2000,Other DoD,Electronics & Communications,Products,722081632.0
+2000,Other DoD,Engines & Power Plants,Products,1879072.0
+2000,Other DoD,ERS,Services,324599309.0
+2000,Other DoD,FRS&C,Services,490011398.0
+2000,Other DoD,Fuels,Products,56237.0
+2000,Other DoD,Ground Vehicles,Products,4758806.0
+2000,Other DoD,ICT,Services,2617170685.0
+2000,Other DoD,Launchers & Munitions,Products,10220491.0
+2000,Other DoD,MED,Services,1932220919.0
+2000,Other DoD,Missiles & Space,Products,9289383.0
+2000,Other DoD,Other,Products,414191360.0
+2000,Other DoD,PAMS,Services,918359357.0
+2000,Other DoD,Adv. Component Dev. & Prototypes (6.4),R&D,33945779.0
+2000,Other DoD,Adv. Technology Dev. (6.3),R&D,105158261.0
+2000,Other DoD,Applied Research (6.2),R&D,515852744.0
+2000,Other DoD,Basic Research (6.1),R&D,78751636.0
+2000,Other DoD,Operation of Government R&D Facilities,R&D,268622.0
+2000,Other DoD,Operational Systems Dev. (6.7),R&D,1064779.0
+2000,Other DoD,System Dev. & Demonstration (6.5),R&D,107302667.0
+2000,Other DoD,Ships,Products,18684686.0
+2001,Air Force,Aircraft,Products,14989979033.0
+2001,Air Force,Clothing & Subsistence,Products,73343368.0
+2001,Air Force,Electronics & Communications,Products,3149642851.0
+2001,Air Force,Engines & Power Plants,Products,3149222307.0
+2001,Air Force,ERS,Services,2855380893.0
+2001,Air Force,FRS&C,Services,4244725963.0
+2001,Air Force,Fuels,Products,36097006.0
+2001,Air Force,Ground Vehicles,Products,97165888.0
+2001,Air Force,ICT,Services,2373875468.0
+2001,Air Force,Launchers & Munitions,Products,961039256.0
+2001,Air Force,MED,Services,41585376.0
+2001,Air Force,Missiles & Space,Products,1109884391.0
+2001,Air Force,Other,Products,2904296595.0
+2001,Air Force,PAMS,Services,8737761516.0
+2001,Air Force,Adv. Component Dev. & Prototypes (6.4),R&D,2409056519.0
+2001,Air Force,Adv. Technology Dev. (6.3),R&D,2737402774.0
+2001,Air Force,Applied Research (6.2),R&D,1516461668.0
+2001,Air Force,Basic Research (6.1),R&D,285010682.0
+2001,Air Force,Operation of Government R&D Facilities,R&D,86812219.0
+2001,Air Force,Operational Systems Dev. (6.7),R&D,99088869.0
+2001,Air Force,System Dev. & Demonstration (6.5),R&D,4113137523.0
+2001,Air Force,Ships,Products,7661442.0
+2001,Army,Aircraft,Products,3515513353.0
+2001,Army,Clothing & Subsistence,Products,396050251.0
+2001,Army,Electronics & Communications,Products,4070510838.0
+2001,Army,Engines & Power Plants,Products,1156184213.0
+2001,Army,ERS,Services,2570710949.0
+2001,Army,FRS&C,Services,14057003505.0
+2001,Army,Fuels,Products,6889895.0
+2001,Army,Ground Vehicles,Products,4795164399.0
+2001,Army,ICT,Services,2205688220.0
+2001,Army,Launchers & Munitions,Products,2418278270.0
+2001,Army,MED,Services,1120754992.0
+2001,Army,Missiles & Space,Products,2529296001.0
+2001,Army,Other,Products,2201601597.0
+2001,Army,PAMS,Services,7703033113.0
+2001,Army,Adv. Component Dev. & Prototypes (6.4),R&D,1550389644.0
+2001,Army,Adv. Technology Dev. (6.3),R&D,2136119251.0
+2001,Army,Applied Research (6.2),R&D,890995864.0
+2001,Army,Basic Research (6.1),R&D,1313240595.0
+2001,Army,Operation of Government R&D Facilities,R&D,10095263.0
+2001,Army,Operational Systems Dev. (6.7),R&D,128693945.0
+2001,Army,System Dev. & Demonstration (6.5),R&D,938939210.0
+2001,Army,Ships,Products,50392425.0
+2001,DLA,Aircraft,Products,787323623.0
+2001,DLA,Clothing & Subsistence,Products,3769889484.0
+2001,DLA,Electronics & Communications,Products,760483615.0
+2001,DLA,Engines & Power Plants,Products,929499081.0
+2001,DLA,ERS,Services,86080040.0
+2001,DLA,FRS&C,Services,250705622.0
+2001,DLA,Fuels,Products,5616340389.0
+2001,DLA,Ground Vehicles,Products,262042286.0
+2001,DLA,ICT,Services,335848785.0
+2001,DLA,Launchers & Munitions,Products,43464868.0
+2001,DLA,MED,Services,1589614.0
+2001,DLA,Missiles & Space,Products,15385289.0
+2001,DLA,Other,Products,2370589752.0
+2001,DLA,PAMS,Services,324249546.0
+2001,DLA,Adv. Technology Dev. (6.3),R&D,34568.0
+2001,DLA,Applied Research (6.2),R&D,64164152.0
+2001,DLA,Basic Research (6.1),R&D,62726254.0
+2001,DLA,Operation of Government R&D Facilities,R&D,44064.0
+2001,DLA,System Dev. & Demonstration (6.5),R&D,19532012.0
+2001,DLA,Ships,Products,34270815.0
+2001,MDA,Electronics & Communications,Products,851850.0
+2001,MDA,FRS&C,Services,45303.0
+2001,MDA,ICT,Services,8745967.0
+2001,MDA,Missiles & Space,Products,1094868332.0
+2001,MDA,PAMS,Services,11440567.0
+2001,MDA,Adv. Technology Dev. (6.3),R&D,1027420179.0
+2001,MDA,Basic Research (6.1),R&D,11024548.0
+2001,MDA,Operation of Government R&D Facilities,R&D,149341105.0
+2001,Navy,Aircraft,Products,6357236073.0
+2001,Navy,Clothing & Subsistence,Products,103658599.0
+2001,Navy,Electronics & Communications,Products,3304029462.0
+2001,Navy,Engines & Power Plants,Products,1810745185.0
+2001,Navy,ERS,Services,7604139001.0
+2001,Navy,FRS&C,Services,7233266443.0
+2001,Navy,Fuels,Products,6506019.0
+2001,Navy,Ground Vehicles,Products,206846210.0
+2001,Navy,ICT,Services,2115708839.0
+2001,Navy,Launchers & Munitions,Products,1275488603.0
+2001,Navy,MED,Services,222789374.0
+2001,Navy,Missiles & Space,Products,2298569058.0
+2001,Navy,Other,Products,1906042190.0
+2001,Navy,PAMS,Services,7800244013.0
+2001,Navy,Adv. Component Dev. & Prototypes (6.4),R&D,1017344023.0
+2001,Navy,Adv. Technology Dev. (6.3),R&D,2465860646.0
+2001,Navy,Applied Research (6.2),R&D,909074231.0
+2001,Navy,Basic Research (6.1),R&D,892632468.0
+2001,Navy,Operation of Government R&D Facilities,R&D,621942018.0
+2001,Navy,Operational Systems Dev. (6.7),R&D,665984566.0
+2001,Navy,System Dev. & Demonstration (6.5),R&D,1572493342.0
+2001,Navy,Ships,Products,7733519418.0
+2001,Other DoD,Aircraft,Products,73781720.0
+2001,Other DoD,Clothing & Subsistence,Products,20530271.0
+2001,Other DoD,Electronics & Communications,Products,640460677.0
+2001,Other DoD,Engines & Power Plants,Products,3385327.0
+2001,Other DoD,ERS,Services,324168325.0
+2001,Other DoD,FRS&C,Services,489885964.0
+2001,Other DoD,Ground Vehicles,Products,3427316.0
+2001,Other DoD,ICT,Services,3327235855.0
+2001,Other DoD,Launchers & Munitions,Products,18933902.0
+2001,Other DoD,MED,Services,3234574896.0
+2001,Other DoD,Missiles & Space,Products,362962.0
+2001,Other DoD,Other,Products,480371125.0
+2001,Other DoD,PAMS,Services,916743993.0
+2001,Other DoD,Adv. Component Dev. & Prototypes (6.4),R&D,7832310.0
+2001,Other DoD,Adv. Technology Dev. (6.3),R&D,75700532.0
+2001,Other DoD,Applied Research (6.2),R&D,447947664.0
+2001,Other DoD,Basic Research (6.1),R&D,148238713.0
+2001,Other DoD,Operation of Government R&D Facilities,R&D,1602180.0
+2001,Other DoD,Operational Systems Dev. (6.7),R&D,14634757.0
+2001,Other DoD,System Dev. & Demonstration (6.5),R&D,59588585.0
+2001,Other DoD,Ships,Products,31258890.0
+2002,Air Force,Aircraft,Products,17640889848.0
+2002,Air Force,Clothing & Subsistence,Products,114946572.0
+2002,Air Force,Electronics & Communications,Products,3589702898.0
+2002,Air Force,Engines & Power Plants,Products,3257489771.0
+2002,Air Force,ERS,Services,3807893525.0
+2002,Air Force,FRS&C,Services,4598387683.0
+2002,Air Force,Fuels,Products,8549633.0
+2002,Air Force,Ground Vehicles,Products,113899563.0
+2002,Air Force,ICT,Services,2448454209.0
+2002,Air Force,Launchers & Munitions,Products,1720357448.0
+2002,Air Force,MED,Services,61219408.0
+2002,Air Force,Missiles & Space,Products,1887912190.0
+2002,Air Force,Other,Products,3552761899.0
+2002,Air Force,PAMS,Services,9646300572.0
+2002,Air Force,Adv. Component Dev. & Prototypes (6.4),R&D,2397103049.0
+2002,Air Force,Adv. Technology Dev. (6.3),R&D,2255446893.0
+2002,Air Force,Applied Research (6.2),R&D,1694861019.0
+2002,Air Force,Basic Research (6.1),R&D,290525703.0
+2002,Air Force,Operation of Government R&D Facilities,R&D,96262115.0
+2002,Air Force,Operational Systems Dev. (6.7),R&D,130686031.0
+2002,Air Force,System Dev. & Demonstration (6.5),R&D,4886732635.0
+2002,Air Force,Ships,Products,4558390.0
+2002,Army,Aircraft,Products,3680839397.0
+2002,Army,Clothing & Subsistence,Products,592606667.0
+2002,Army,Electronics & Communications,Products,3958152005.0
+2002,Army,Engines & Power Plants,Products,1520226343.0
+2002,Army,ERS,Services,2031710544.0
+2002,Army,FRS&C,Services,15840165888.0
+2002,Army,Fuels,Products,29427841.0
+2002,Army,Ground Vehicles,Products,4364506712.0
+2002,Army,ICT,Services,2485294929.0
+2002,Army,Launchers & Munitions,Products,2716510477.0
+2002,Army,MED,Services,1252895560.0
+2002,Army,Missiles & Space,Products,3156510090.0
+2002,Army,Other,Products,2494019570.0
+2002,Army,PAMS,Services,9872558914.0
+2002,Army,Adv. Component Dev. & Prototypes (6.4),R&D,1901325905.0
+2002,Army,Adv. Technology Dev. (6.3),R&D,2638450447.0
+2002,Army,Applied Research (6.2),R&D,1084016852.0
+2002,Army,Basic Research (6.1),R&D,1651584534.0
+2002,Army,Operation of Government R&D Facilities,R&D,6162387.0
+2002,Army,Operational Systems Dev. (6.7),R&D,260544906.0
+2002,Army,System Dev. & Demonstration (6.5),R&D,822634146.0
+2002,Army,Ships,Products,82810414.0
+2002,DLA,Aircraft,Products,989983830.0
+2002,DLA,Clothing & Subsistence,Products,5222011471.0
+2002,DLA,Electronics & Communications,Products,1036123534.0
+2002,DLA,Engines & Power Plants,Products,1022298968.0
+2002,DLA,ERS,Services,72575441.0
+2002,DLA,FRS&C,Services,269661757.0
+2002,DLA,Fuels,Products,7278986083.0
+2002,DLA,Ground Vehicles,Products,290078296.0
+2002,DLA,ICT,Services,299258489.0
+2002,DLA,Launchers & Munitions,Products,64059747.0
+2002,DLA,MED,Services,684906.0
+2002,DLA,Missiles & Space,Products,17975045.0
+2002,DLA,Other,Products,2614543982.0
+2002,DLA,PAMS,Services,346021764.0
+2002,DLA,Adv. Component Dev. & Prototypes (6.4),R&D,1411137.0
+2002,DLA,Applied Research (6.2),R&D,18223970.0
+2002,DLA,Basic Research (6.1),R&D,141913437.0
+2002,DLA,System Dev. & Demonstration (6.5),R&D,18789665.0
+2002,DLA,Ships,Products,53734521.0
+2002,MDA,Electronics & Communications,Products,1024386.0
+2002,MDA,ERS,Services,194525.0
+2002,MDA,FRS&C,Services,3203704.0
+2002,MDA,ICT,Services,26767483.0
+2002,MDA,Missiles & Space,Products,2803056610.0
+2002,MDA,Other,Products,86143.0
+2002,MDA,PAMS,Services,27160658.0
+2002,MDA,Adv. Technology Dev. (6.3),R&D,363101948.0
+2002,MDA,Operation of Government R&D Facilities,R&D,142618412.0
+2002,Navy,Aircraft,Products,6818166309.0
+2002,Navy,Clothing & Subsistence,Products,158360461.0
+2002,Navy,Electronics & Communications,Products,4165035730.0
+2002,Navy,Engines & Power Plants,Products,1452394079.0
+2002,Navy,ERS,Services,8126968897.0
+2002,Navy,FRS&C,Services,6914397457.0
+2002,Navy,Fuels,Products,5622214.0
+2002,Navy,Ground Vehicles,Products,670218490.0
+2002,Navy,ICT,Services,2376259530.0
+2002,Navy,Launchers & Munitions,Products,1953749693.0
+2002,Navy,MED,Services,273180725.0
+2002,Navy,Missiles & Space,Products,2238772367.0
+2002,Navy,Other,Products,2037322497.0
+2002,Navy,PAMS,Services,9409262608.0
+2002,Navy,Adv. Component Dev. & Prototypes (6.4),R&D,718035996.0
+2002,Navy,Adv. Technology Dev. (6.3),R&D,3258636497.0
+2002,Navy,Applied Research (6.2),R&D,912410043.0
+2002,Navy,Basic Research (6.1),R&D,1087439977.0
+2002,Navy,Operation of Government R&D Facilities,R&D,400155532.0
+2002,Navy,Operational Systems Dev. (6.7),R&D,849357484.0
+2002,Navy,System Dev. & Demonstration (6.5),R&D,4036016345.0
+2002,Navy,Ships,Products,6819521876.0
+2002,Other DoD,Aircraft,Products,107992125.0
+2002,Other DoD,Clothing & Subsistence,Products,26457083.0
+2002,Other DoD,Electronics & Communications,Products,1014472046.0
+2002,Other DoD,Engines & Power Plants,Products,6884805.0
+2002,Other DoD,ERS,Services,418506141.0
+2002,Other DoD,FRS&C,Services,1047096976.0
+2002,Other DoD,Ground Vehicles,Products,13391444.0
+2002,Other DoD,ICT,Services,3564845106.0
+2002,Other DoD,Launchers & Munitions,Products,13203984.0
+2002,Other DoD,MED,Services,5663190609.0
+2002,Other DoD,Missiles & Space,Products,57017620.0
+2002,Other DoD,Other,Products,639486556.0
+2002,Other DoD,PAMS,Services,1690727815.0
+2002,Other DoD,Adv. Component Dev. & Prototypes (6.4),R&D,75279135.0
+2002,Other DoD,Adv. Technology Dev. (6.3),R&D,80972914.0
+2002,Other DoD,Applied Research (6.2),R&D,592515528.0
+2002,Other DoD,Basic Research (6.1),R&D,202839088.0
+2002,Other DoD,Operation of Government R&D Facilities,R&D,582803.0
+2002,Other DoD,Operational Systems Dev. (6.7),R&D,8262620.0
+2002,Other DoD,System Dev. & Demonstration (6.5),R&D,92316347.0
+2002,Other DoD,Ships,Products,47601883.0
+2003,Air Force,Aircraft,Products,18619706565.0
+2003,Air Force,Clothing & Subsistence,Products,191512500.0
+2003,Air Force,Electronics & Communications,Products,4788790749.0
+2003,Air Force,Engines & Power Plants,Products,3952532776.0
+2003,Air Force,ERS,Services,5206655749.0
+2003,Air Force,FRS&C,Services,6465253231.0
+2003,Air Force,Fuels,Products,9360943.0
+2003,Air Force,Ground Vehicles,Products,133353796.0
+2003,Air Force,ICT,Services,2755189178.0
+2003,Air Force,Launchers & Munitions,Products,2065131770.0
+2003,Air Force,MED,Services,67364080.0
+2003,Air Force,Missiles & Space,Products,1469441254.0
+2003,Air Force,Other,Products,2013706206.0
+2003,Air Force,PAMS,Services,13563770958.0
+2003,Air Force,Adv. Component Dev. & Prototypes (6.4),R&D,1389619819.0
+2003,Air Force,Adv. Technology Dev. (6.3),R&D,3301623038.0
+2003,Air Force,Applied Research (6.2),R&D,2343056185.0
+2003,Air Force,Basic Research (6.1),R&D,480298067.0
+2003,Air Force,Operation of Government R&D Facilities,R&D,44106131.0
+2003,Air Force,Operational Systems Dev. (6.7),R&D,402237369.0
+2003,Air Force,System Dev. & Demonstration (6.5),R&D,3930177196.0
+2003,Air Force,Ships,Products,6112696.0
+2003,Army,Aircraft,Products,4819520465.0
+2003,Army,Clothing & Subsistence,Products,1121092513.0
+2003,Army,Electronics & Communications,Products,5422276184.0
+2003,Army,Engines & Power Plants,Products,2665536775.0
+2003,Army,ERS,Services,2575323980.0
+2003,Army,FRS&C,Services,20410556093.0
+2003,Army,Fuels,Products,34843736.0
+2003,Army,Ground Vehicles,Products,9443808109.0
+2003,Army,ICT,Services,2833840243.0
+2003,Army,Launchers & Munitions,Products,3134710445.0
+2003,Army,MED,Services,1217231795.0
+2003,Army,Missiles & Space,Products,2571421368.0
+2003,Army,Other,Products,3849036138.0
+2003,Army,PAMS,Services,14640028864.0
+2003,Army,Adv. Component Dev. & Prototypes (6.4),R&D,2140287234.0
+2003,Army,Adv. Technology Dev. (6.3),R&D,2764855930.0
+2003,Army,Applied Research (6.2),R&D,1138434697.0
+2003,Army,Basic Research (6.1),R&D,2291329843.0
+2003,Army,Operation of Government R&D Facilities,R&D,17794215.0
+2003,Army,Operational Systems Dev. (6.7),R&D,266969770.0
+2003,Army,System Dev. & Demonstration (6.5),R&D,838728696.0
+2003,Army,Ships,Products,161085114.0
+2003,DLA,Aircraft,Products,953984099.0
+2003,DLA,Clothing & Subsistence,Products,7915910173.0
+2003,DLA,Electronics & Communications,Products,1177903751.0
+2003,DLA,Engines & Power Plants,Products,986124845.0
+2003,DLA,ERS,Services,83136441.0
+2003,DLA,FRS&C,Services,336711098.0
+2003,DLA,Fuels,Products,7377661169.0
+2003,DLA,Ground Vehicles,Products,391472415.0
+2003,DLA,ICT,Services,403781795.0
+2003,DLA,Launchers & Munitions,Products,85924331.0
+2003,DLA,MED,Services,1099508.0
+2003,DLA,Missiles & Space,Products,35068918.0
+2003,DLA,Other,Products,2880154353.0
+2003,DLA,PAMS,Services,451806113.0
+2003,DLA,Applied Research (6.2),R&D,9697995.0
+2003,DLA,Basic Research (6.1),R&D,124184138.0
+2003,DLA,System Dev. & Demonstration (6.5),R&D,21017068.0
+2003,DLA,Ships,Products,52518152.0
+2003,MDA,Clothing & Subsistence,Products,7954.0
+2003,MDA,Electronics & Communications,Products,828817.0
+2003,MDA,ERS,Services,256403.0
+2003,MDA,FRS&C,Services,4893169.0
+2003,MDA,Ground Vehicles,Products,20714.0
+2003,MDA,ICT,Services,31850146.0
+2003,MDA,Missiles & Space,Products,2649470237.0
+2003,MDA,Other,Products,12252.0
+2003,MDA,PAMS,Services,66568738.0
+2003,MDA,Adv. Component Dev. & Prototypes (6.4),R&D,49397942.0
+2003,MDA,Adv. Technology Dev. (6.3),R&D,479021679.0
+2003,MDA,Applied Research (6.2),R&D,13164075.0
+2003,MDA,Basic Research (6.1),R&D,48467040.0
+2003,MDA,Operation of Government R&D Facilities,R&D,175143816.0
+2003,Navy,Aircraft,Products,7919558037.0
+2003,Navy,Clothing & Subsistence,Products,212834731.0
+2003,Navy,Electronics & Communications,Products,4256734756.0
+2003,Navy,Engines & Power Plants,Products,3187631195.0
+2003,Navy,ERS,Services,8462389644.0
+2003,Navy,FRS&C,Services,8537207634.0
+2003,Navy,Fuels,Products,13357376.0
+2003,Navy,Ground Vehicles,Products,382242445.0
+2003,Navy,ICT,Services,2964958111.0
+2003,Navy,Launchers & Munitions,Products,2206331327.0
+2003,Navy,MED,Services,351224255.0
+2003,Navy,Missiles & Space,Products,3339309470.0
+2003,Navy,Other,Products,2972042380.0
+2003,Navy,PAMS,Services,9319086945.0
+2003,Navy,Adv. Component Dev. & Prototypes (6.4),R&D,1136616027.0
+2003,Navy,Adv. Technology Dev. (6.3),R&D,2451996394.0
+2003,Navy,Applied Research (6.2),R&D,924099582.0
+2003,Navy,Basic Research (6.1),R&D,1118773603.0
+2003,Navy,Operation of Government R&D Facilities,R&D,576330544.0
+2003,Navy,Operational Systems Dev. (6.7),R&D,735350248.0
+2003,Navy,System Dev. & Demonstration (6.5),R&D,6901236141.0
+2003,Navy,Ships,Products,7032636096.0
+2003,Other DoD,Aircraft,Products,194227468.0
+2003,Other DoD,Clothing & Subsistence,Products,53771743.0
+2003,Other DoD,Electronics & Communications,Products,1135328623.0
+2003,Other DoD,Engines & Power Plants,Products,5869909.0
+2003,Other DoD,ERS,Services,802901739.0
+2003,Other DoD,FRS&C,Services,526664963.0
+2003,Other DoD,Fuels,Products,133388.0
+2003,Other DoD,Ground Vehicles,Products,18645703.0
+2003,Other DoD,ICT,Services,4426601743.0
+2003,Other DoD,Launchers & Munitions,Products,33803383.0
+2003,Other DoD,MED,Services,7753655466.0
+2003,Other DoD,Missiles & Space,Products,20451773.0
+2003,Other DoD,Other,Products,987183569.0
+2003,Other DoD,PAMS,Services,2009450917.0
+2003,Other DoD,Adv. Component Dev. & Prototypes (6.4),R&D,18667818.0
+2003,Other DoD,Adv. Technology Dev. (6.3),R&D,156957544.0
+2003,Other DoD,Applied Research (6.2),R&D,549555967.0
+2003,Other DoD,Basic Research (6.1),R&D,399189173.0
+2003,Other DoD,Operation of Government R&D Facilities,R&D,15896464.0
+2003,Other DoD,Operational Systems Dev. (6.7),R&D,2194907.0
+2003,Other DoD,System Dev. & Demonstration (6.5),R&D,36069291.0
+2003,Other DoD,Ships,Products,31082099.0
+2004,Air Force,Aircraft,Products,17876030867.0
+2004,Air Force,Clothing & Subsistence,Products,229815825.0
+2004,Air Force,Electronics & Communications,Products,4039017676.0
+2004,Air Force,Engines & Power Plants,Products,4055889437.0
+2004,Air Force,ERS,Services,4428451806.0
+2004,Air Force,FRS&C,Services,5647792439.0
+2004,Air Force,Fuels,Products,5648036.0
+2004,Air Force,Ground Vehicles,Products,148605438.0
+2004,Air Force,ICT,Services,3222017600.0
+2004,Air Force,Launchers & Munitions,Products,1942212184.0
+2004,Air Force,MED,Services,83854773.0
+2004,Air Force,Missiles & Space,Products,2064036305.0
+2004,Air Force,Other,Products,2549995256.0
+2004,Air Force,PAMS,Services,12223854908.0
+2004,Air Force,Adv. Component Dev. & Prototypes (6.4),R&D,1266519450.0
+2004,Air Force,Adv. Technology Dev. (6.3),R&D,3076888175.0
+2004,Air Force,Applied Research (6.2),R&D,2526288250.0
+2004,Air Force,Basic Research (6.1),R&D,644428064.0
+2004,Air Force,Operation of Government R&D Facilities,R&D,27882463.0
+2004,Air Force,Operational Systems Dev. (6.7),R&D,702035620.0
+2004,Air Force,System Dev. & Demonstration (6.5),R&D,3909349706.0
+2004,Air Force,Ships,Products,4112912.0
+2004,Army,Aircraft,Products,5845865457.0
+2004,Army,Clothing & Subsistence,Products,1397443278.0
+2004,Army,Electronics & Communications,Products,6687463892.0
+2004,Army,Engines & Power Plants,Products,2387959810.0
+2004,Army,ERS,Services,3749899398.0
+2004,Army,FRS&C,Services,21982071350.0
+2004,Army,Fuels,Products,16167237.0
+2004,Army,Ground Vehicles,Products,6858950191.0
+2004,Army,ICT,Services,3348441145.0
+2004,Army,Launchers & Munitions,Products,4022780156.0
+2004,Army,MED,Services,1308957321.0
+2004,Army,Missiles & Space,Products,2808191706.0
+2004,Army,Other,Products,4395769003.0
+2004,Army,PAMS,Services,22014105578.0
+2004,Army,Adv. Component Dev. & Prototypes (6.4),R&D,2300611251.0
+2004,Army,Adv. Technology Dev. (6.3),R&D,2587807866.0
+2004,Army,Applied Research (6.2),R&D,1433462863.0
+2004,Army,Basic Research (6.1),R&D,2993231611.0
+2004,Army,Operation of Government R&D Facilities,R&D,41502728.0
+2004,Army,Operational Systems Dev. (6.7),R&D,340124197.0
+2004,Army,System Dev. & Demonstration (6.5),R&D,820746091.0
+2004,Army,Ships,Products,111013101.0
+2004,DLA,Aircraft,Products,788263221.0
+2004,DLA,Clothing & Subsistence,Products,7575209834.0
+2004,DLA,Electronics & Communications,Products,1381456862.0
+2004,DLA,Engines & Power Plants,Products,865263363.0
+2004,DLA,ERS,Services,97115729.0
+2004,DLA,FRS&C,Services,531929155.0
+2004,DLA,Fuels,Products,8343438803.0
+2004,DLA,Ground Vehicles,Products,650662999.0
+2004,DLA,ICT,Services,508778070.0
+2004,DLA,Launchers & Munitions,Products,124235287.0
+2004,DLA,MED,Services,2272424.0
+2004,DLA,Missiles & Space,Products,21088414.0
+2004,DLA,Other,Products,3833464482.0
+2004,DLA,PAMS,Services,338256715.0
+2004,DLA,Basic Research (6.1),R&D,9055825.0
+2004,DLA,System Dev. & Demonstration (6.5),R&D,8621196.0
+2004,DLA,Ships,Products,105907349.0
+2004,MDA,Aircraft,Products,10675290.0
+2004,MDA,Electronics & Communications,Products,883525.0
+2004,MDA,ERS,Services,2474470.0
+2004,MDA,FRS&C,Services,15393788.0
+2004,MDA,Ground Vehicles,Products,32534.0
+2004,MDA,ICT,Services,34050167.0
+2004,MDA,Missiles & Space,Products,3228925574.0
+2004,MDA,PAMS,Services,154777124.0
+2004,MDA,Adv. Component Dev. & Prototypes (6.4),R&D,171491210.0
+2004,MDA,Adv. Technology Dev. (6.3),R&D,477414268.0
+2004,MDA,Applied Research (6.2),R&D,8834132.0
+2004,MDA,Basic Research (6.1),R&D,62211015.0
+2004,MDA,Operation of Government R&D Facilities,R&D,173881368.0
+2004,MDA,System Dev. & Demonstration (6.5),R&D,1490943.0
+2004,Navy,Aircraft,Products,8730224646.0
+2004,Navy,Clothing & Subsistence,Products,399742524.0
+2004,Navy,Electronics & Communications,Products,4582877371.0
+2004,Navy,Engines & Power Plants,Products,1707822264.0
+2004,Navy,ERS,Services,8049120391.0
+2004,Navy,FRS&C,Services,6560587238.0
+2004,Navy,Fuels,Products,9977742.0
+2004,Navy,Ground Vehicles,Products,810502290.0
+2004,Navy,ICT,Services,4727581879.0
+2004,Navy,Launchers & Munitions,Products,2740791199.0
+2004,Navy,MED,Services,337308823.0
+2004,Navy,Missiles & Space,Products,4401576277.0
+2004,Navy,Other,Products,2980346700.0
+2004,Navy,PAMS,Services,8771898744.0
+2004,Navy,Adv. Component Dev. & Prototypes (6.4),R&D,806811201.0
+2004,Navy,Adv. Technology Dev. (6.3),R&D,2133034979.0
+2004,Navy,Applied Research (6.2),R&D,1367974330.0
+2004,Navy,Basic Research (6.1),R&D,954984921.0
+2004,Navy,Operation of Government R&D Facilities,R&D,614548975.0
+2004,Navy,Operational Systems Dev. (6.7),R&D,747915694.0
+2004,Navy,System Dev. & Demonstration (6.5),R&D,7202457537.0
+2004,Navy,Ships,Products,9432597555.0
+2004,Other DoD,Aircraft,Products,256466047.0
+2004,Other DoD,Clothing & Subsistence,Products,54753254.0
+2004,Other DoD,Electronics & Communications,Products,1352176308.0
+2004,Other DoD,Engines & Power Plants,Products,9700800.0
+2004,Other DoD,ERS,Services,788685929.0
+2004,Other DoD,FRS&C,Services,458795166.0
+2004,Other DoD,Fuels,Products,133597.0
+2004,Other DoD,Ground Vehicles,Products,17171693.0
+2004,Other DoD,ICT,Services,4294892432.0
+2004,Other DoD,Launchers & Munitions,Products,45156632.0
+2004,Other DoD,MED,Services,6576153792.0
+2004,Other DoD,Missiles & Space,Products,66537676.0
+2004,Other DoD,Other,Products,1285891276.0
+2004,Other DoD,PAMS,Services,2753690033.0
+2004,Other DoD,Adv. Component Dev. & Prototypes (6.4),R&D,79388918.0
+2004,Other DoD,Adv. Technology Dev. (6.3),R&D,279625747.0
+2004,Other DoD,Applied Research (6.2),R&D,438872102.0
+2004,Other DoD,Basic Research (6.1),R&D,207707589.0
+2004,Other DoD,Operation of Government R&D Facilities,R&D,21714199.0
+2004,Other DoD,Operational Systems Dev. (6.7),R&D,832427.0
+2004,Other DoD,System Dev. & Demonstration (6.5),R&D,11957043.0
+2004,Other DoD,Ships,Products,26874215.0
+2005,Air Force,Aircraft,Products,13975241986.0
+2005,Air Force,Clothing & Subsistence,Products,165480213.0
+2005,Air Force,Electronics & Communications,Products,3632274003.0
+2005,Air Force,Engines & Power Plants,Products,4208669074.0
+2005,Air Force,ERS,Services,5379832811.0
+2005,Air Force,FRS&C,Services,6212863500.0
+2005,Air Force,Fuels,Products,9273147.0
+2005,Air Force,Ground Vehicles,Products,116322778.0
+2005,Air Force,ICT,Services,3519595064.0
+2005,Air Force,Launchers & Munitions,Products,1584842276.0
+2005,Air Force,MED,Services,166954435.0
+2005,Air Force,Missiles & Space,Products,1931650568.0
+2005,Air Force,Other,Products,1927488390.0
+2005,Air Force,PAMS,Services,13710392414.0
+2005,Air Force,Adv. Component Dev. & Prototypes (6.4),R&D,1276979388.0
+2005,Air Force,Adv. Technology Dev. (6.3),R&D,2437063104.0
+2005,Air Force,Applied Research (6.2),R&D,2589855875.0
+2005,Air Force,Basic Research (6.1),R&D,1018732321.0
+2005,Air Force,Operation of Government R&D Facilities,R&D,81911317.0
+2005,Air Force,Operational Systems Dev. (6.7),R&D,973799534.0
+2005,Air Force,System Dev. & Demonstration (6.5),R&D,4051593551.0
+2005,Air Force,Ships,Products,3027439.0
+2005,Army,Aircraft,Products,5596572941.0
+2005,Army,Clothing & Subsistence,Products,1993549552.0
+2005,Army,Electronics & Communications,Products,9609204226.0
+2005,Army,Engines & Power Plants,Products,2213253900.0
+2005,Army,ERS,Services,6234943182.0
+2005,Army,FRS&C,Services,23109585511.0
+2005,Army,Fuels,Products,52472805.0
+2005,Army,Ground Vehicles,Products,11192242759.0
+2005,Army,ICT,Services,2711563057.0
+2005,Army,Launchers & Munitions,Products,6324988702.0
+2005,Army,MED,Services,1382058618.0
+2005,Army,Missiles & Space,Products,2384275362.0
+2005,Army,Other,Products,12428892818.0
+2005,Army,PAMS,Services,22871511161.0
+2005,Army,Adv. Component Dev. & Prototypes (6.4),R&D,846729656.0
+2005,Army,Adv. Technology Dev. (6.3),R&D,2863239154.0
+2005,Army,Applied Research (6.2),R&D,1594794159.0
+2005,Army,Basic Research (6.1),R&D,2938833925.0
+2005,Army,Operation of Government R&D Facilities,R&D,93646187.0
+2005,Army,Operational Systems Dev. (6.7),R&D,537954853.0
+2005,Army,System Dev. & Demonstration (6.5),R&D,1327432763.0
+2005,Army,Ships,Products,81183307.0
+2005,DLA,Aircraft,Products,971970269.0
+2005,DLA,Clothing & Subsistence,Products,10567171718.0
+2005,DLA,Electronics & Communications,Products,1294121658.0
+2005,DLA,Engines & Power Plants,Products,1095158357.0
+2005,DLA,ERS,Services,225423369.0
+2005,DLA,FRS&C,Services,805865696.0
+2005,DLA,Fuels,Products,11784995030.0
+2005,DLA,Ground Vehicles,Products,619010340.0
+2005,DLA,ICT,Services,694641400.0
+2005,DLA,Launchers & Munitions,Products,90855557.0
+2005,DLA,MED,Services,2140640.0
+2005,DLA,Missiles & Space,Products,26325773.0
+2005,DLA,Other,Products,5995206097.0
+2005,DLA,PAMS,Services,273475926.0
+2005,DLA,Adv. Component Dev. & Prototypes (6.4),R&D,1513664.0
+2005,DLA,Basic Research (6.1),R&D,15873937.0
+2005,DLA,Operational Systems Dev. (6.7),R&D,13467.0
+2005,DLA,System Dev. & Demonstration (6.5),R&D,8208394.0
+2005,DLA,Ships,Products,187557913.0
+2005,MDA,Electronics & Communications,Products,1199445.0
+2005,MDA,ERS,Services,2746108.0
+2005,MDA,FRS&C,Services,25786699.0
+2005,MDA,Ground Vehicles,Products,66660.0
+2005,MDA,ICT,Services,27549460.0
+2005,MDA,Missiles & Space,Products,3332195881.0
+2005,MDA,Other,Products,58939.0
+2005,MDA,PAMS,Services,164247451.0
+2005,MDA,Adv. Component Dev. & Prototypes (6.4),R&D,300992576.0
+2005,MDA,Adv. Technology Dev. (6.3),R&D,593071687.0
+2005,MDA,Applied Research (6.2),R&D,13850255.0
+2005,MDA,Basic Research (6.1),R&D,107217636.0
+2005,MDA,Operation of Government R&D Facilities,R&D,197980904.0
+2005,Navy,Aircraft,Products,8510589500.0
+2005,Navy,Clothing & Subsistence,Products,428973307.0
+2005,Navy,Electronics & Communications,Products,4895775842.0
+2005,Navy,Engines & Power Plants,Products,1761493996.0
+2005,Navy,ERS,Services,7582594089.0
+2005,Navy,FRS&C,Services,6885798516.0
+2005,Navy,Fuels,Products,21054341.0
+2005,Navy,Ground Vehicles,Products,1024906855.0
+2005,Navy,ICT,Services,4189133528.0
+2005,Navy,Launchers & Munitions,Products,2445951325.0
+2005,Navy,MED,Services,442579094.0
+2005,Navy,Missiles & Space,Products,3891766967.0
+2005,Navy,Other,Products,3544651013.0
+2005,Navy,PAMS,Services,9745323179.0
+2005,Navy,Adv. Component Dev. & Prototypes (6.4),R&D,777693837.0
+2005,Navy,Adv. Technology Dev. (6.3),R&D,3132962679.0
+2005,Navy,Applied Research (6.2),R&D,1500928243.0
+2005,Navy,Basic Research (6.1),R&D,1510425977.0
+2005,Navy,Operation of Government R&D Facilities,R&D,628704262.0
+2005,Navy,Operational Systems Dev. (6.7),R&D,645743051.0
+2005,Navy,System Dev. & Demonstration (6.5),R&D,9279983887.0
+2005,Navy,Ships,Products,8564982861.0
+2005,Other DoD,Aircraft,Products,185693191.0
+2005,Other DoD,Clothing & Subsistence,Products,65004279.0
+2005,Other DoD,Electronics & Communications,Products,1122765864.0
+2005,Other DoD,Engines & Power Plants,Products,31495792.0
+2005,Other DoD,ERS,Services,685421999.0
+2005,Other DoD,FRS&C,Services,411429373.0
+2005,Other DoD,Fuels,Products,143594.0
+2005,Other DoD,Ground Vehicles,Products,8599652.0
+2005,Other DoD,ICT,Services,5181992420.0
+2005,Other DoD,Launchers & Munitions,Products,18835766.0
+2005,Other DoD,MED,Services,7952328616.0
+2005,Other DoD,Missiles & Space,Products,25891103.0
+2005,Other DoD,Other,Products,1131473558.0
+2005,Other DoD,PAMS,Services,3163545049.0
+2005,Other DoD,Adv. Component Dev. & Prototypes (6.4),R&D,85078963.0
+2005,Other DoD,Adv. Technology Dev. (6.3),R&D,394817183.0
+2005,Other DoD,Applied Research (6.2),R&D,510040568.0
+2005,Other DoD,Basic Research (6.1),R&D,207985083.0
+2005,Other DoD,Operation of Government R&D Facilities,R&D,490891.0
+2005,Other DoD,Operational Systems Dev. (6.7),R&D,15968875.0
+2005,Other DoD,System Dev. & Demonstration (6.5),R&D,12777507.0
+2005,Other DoD,Ships,Products,25201038.0
+2006,Air Force,Aircraft,Products,19332301962.0
+2006,Air Force,Clothing & Subsistence,Products,163901254.0
+2006,Air Force,Electronics & Communications,Products,3761833563.0
+2006,Air Force,Engines & Power Plants,Products,2835789543.0
+2006,Air Force,ERS,Services,6552183166.0
+2006,Air Force,FRS&C,Services,7282345711.0
+2006,Air Force,Fuels,Products,8253704.0
+2006,Air Force,Ground Vehicles,Products,151059681.0
+2006,Air Force,ICT,Services,3420319053.0
+2006,Air Force,Launchers & Munitions,Products,975261122.0
+2006,Air Force,MED,Services,249334542.0
+2006,Air Force,Missiles & Space,Products,2366067722.0
+2006,Air Force,Other,Products,1918787719.0
+2006,Air Force,PAMS,Services,14601253539.0
+2006,Air Force,Adv. Component Dev. & Prototypes (6.4),R&D,1256502947.0
+2006,Air Force,Adv. Technology Dev. (6.3),R&D,2013281392.0
+2006,Air Force,Applied Research (6.2),R&D,3320232816.0
+2006,Air Force,Basic Research (6.1),R&D,1092354915.0
+2006,Air Force,Operation of Government R&D Facilities,R&D,43033823.0
+2006,Air Force,Operational Systems Dev. (6.7),R&D,1250470478.0
+2006,Air Force,System Dev. & Demonstration (6.5),R&D,3170432661.0
+2006,Air Force,Ships,Products,10796208.0
+2006,Army,Aircraft,Products,5158403273.0
+2006,Army,Clothing & Subsistence,Products,2027901521.0
+2006,Army,Electronics & Communications,Products,10306573823.0
+2006,Army,Engines & Power Plants,Products,2138374494.0
+2006,Army,ERS,Services,4460751856.0
+2006,Army,FRS&C,Services,26269733101.0
+2006,Army,Fuels,Products,28365082.0
+2006,Army,Ground Vehicles,Products,10160152857.0
+2006,Army,ICT,Services,2659978347.0
+2006,Army,Launchers & Munitions,Products,5763560855.0
+2006,Army,MED,Services,956853914.0
+2006,Army,Missiles & Space,Products,2884595435.0
+2006,Army,Other,Products,10606002557.0
+2006,Army,PAMS,Services,25516401757.0
+2006,Army,Adv. Component Dev. & Prototypes (6.4),R&D,863383627.0
+2006,Army,Adv. Technology Dev. (6.3),R&D,3053731787.0
+2006,Army,Applied Research (6.2),R&D,1394173326.0
+2006,Army,Basic Research (6.1),R&D,2646116741.0
+2006,Army,Operation of Government R&D Facilities,R&D,9397294.0
+2006,Army,Operational Systems Dev. (6.7),R&D,339988946.0
+2006,Army,System Dev. & Demonstration (6.5),R&D,4298841764.0
+2006,Army,Ships,Products,116643579.0
+2006,DLA,Aircraft,Products,1381881196.0
+2006,DLA,Clothing & Subsistence,Products,11863417043.0
+2006,DLA,Electronics & Communications,Products,1057638611.0
+2006,DLA,Engines & Power Plants,Products,905277774.0
+2006,DLA,ERS,Services,209329126.0
+2006,DLA,FRS&C,Services,1005756777.0
+2006,DLA,Fuels,Products,15622079230.0
+2006,DLA,Ground Vehicles,Products,496429003.0
+2006,DLA,ICT,Services,756864424.0
+2006,DLA,Launchers & Munitions,Products,116934614.0
+2006,DLA,MED,Services,1252835.0
+2006,DLA,Missiles & Space,Products,24701814.0
+2006,DLA,Other,Products,5136544107.0
+2006,DLA,PAMS,Services,242229345.0
+2006,DLA,Adv. Component Dev. & Prototypes (6.4),R&D,239872.0
+2006,DLA,Basic Research (6.1),R&D,5020907.0
+2006,DLA,Operational Systems Dev. (6.7),R&D,6237.0
+2006,DLA,System Dev. & Demonstration (6.5),R&D,16507901.0
+2006,DLA,Ships,Products,264368649.0
+2006,MDA,Clothing & Subsistence,Products,3550.0
+2006,MDA,Electronics & Communications,Products,1044054.0
+2006,MDA,Engines & Power Plants,Products,65777.0
+2006,MDA,ERS,Services,549263.0
+2006,MDA,FRS&C,Services,29608039.0
+2006,MDA,Ground Vehicles,Products,65618.0
+2006,MDA,ICT,Services,33379137.0
+2006,MDA,Launchers & Munitions,Products,625063.0
+2006,MDA,Missiles & Space,Products,2698494964.0
+2006,MDA,Other,Products,6015093.0
+2006,MDA,PAMS,Services,238644956.0
+2006,MDA,Adv. Component Dev. & Prototypes (6.4),R&D,275985991.0
+2006,MDA,Adv. Technology Dev. (6.3),R&D,503181555.0
+2006,MDA,Applied Research (6.2),R&D,41720332.0
+2006,MDA,Basic Research (6.1),R&D,160084546.0
+2006,MDA,Operation of Government R&D Facilities,R&D,191866174.0
+2006,MDA,System Dev. & Demonstration (6.5),R&D,7587912.0
+2006,Navy,Aircraft,Products,9244432630.0
+2006,Navy,Clothing & Subsistence,Products,772313560.0
+2006,Navy,Electronics & Communications,Products,6317406704.0
+2006,Navy,Engines & Power Plants,Products,2708121915.0
+2006,Navy,ERS,Services,7856284027.0
+2006,Navy,FRS&C,Services,7537721940.0
+2006,Navy,Fuels,Products,29519626.0
+2006,Navy,Ground Vehicles,Products,894987024.0
+2006,Navy,ICT,Services,5239736629.0
+2006,Navy,Launchers & Munitions,Products,2627884428.0
+2006,Navy,MED,Services,509426935.0
+2006,Navy,Missiles & Space,Products,4413894293.0
+2006,Navy,Other,Products,2945823781.0
+2006,Navy,PAMS,Services,10158477842.0
+2006,Navy,Adv. Component Dev. & Prototypes (6.4),R&D,638135456.0
+2006,Navy,Adv. Technology Dev. (6.3),R&D,3488302419.0
+2006,Navy,Applied Research (6.2),R&D,1075644240.0
+2006,Navy,Basic Research (6.1),R&D,1296663708.0
+2006,Navy,Operation of Government R&D Facilities,R&D,624316858.0
+2006,Navy,Operational Systems Dev. (6.7),R&D,598251821.0
+2006,Navy,System Dev. & Demonstration (6.5),R&D,10463660462.0
+2006,Navy,Ships,Products,10453807243.0
+2006,Other DoD,Aircraft,Products,235507325.0
+2006,Other DoD,Clothing & Subsistence,Products,50898488.0
+2006,Other DoD,Electronics & Communications,Products,1252012331.0
+2006,Other DoD,Engines & Power Plants,Products,13157961.0
+2006,Other DoD,ERS,Services,588646598.0
+2006,Other DoD,FRS&C,Services,401287006.0
+2006,Other DoD,Fuels,Products,241094.0
+2006,Other DoD,Ground Vehicles,Products,7865381.0
+2006,Other DoD,ICT,Services,4860008229.0
+2006,Other DoD,Launchers & Munitions,Products,94435663.0
+2006,Other DoD,MED,Services,9631504960.0
+2006,Other DoD,Missiles & Space,Products,24333195.0
+2006,Other DoD,Other,Products,1011684096.0
+2006,Other DoD,PAMS,Services,3586906468.0
+2006,Other DoD,Adv. Component Dev. & Prototypes (6.4),R&D,115226538.0
+2006,Other DoD,Adv. Technology Dev. (6.3),R&D,450074976.0
+2006,Other DoD,Applied Research (6.2),R&D,537014090.0
+2006,Other DoD,Basic Research (6.1),R&D,194430325.0
+2006,Other DoD,Operation of Government R&D Facilities,R&D,8105649.0
+2006,Other DoD,Operational Systems Dev. (6.7),R&D,26604651.0
+2006,Other DoD,System Dev. & Demonstration (6.5),R&D,26684447.0
+2006,Other DoD,Ships,Products,25962192.0
+2007,Air Force,Aircraft,Products,21066020443.0
+2007,Air Force,Clothing & Subsistence,Products,154812732.0
+2007,Air Force,Electronics & Communications,Products,4247714234.0
+2007,Air Force,Engines & Power Plants,Products,4293895588.0
+2007,Air Force,ERS,Services,6958552629.0
+2007,Air Force,FRS&C,Services,6812688659.0
+2007,Air Force,Fuels,Products,11378275.0
+2007,Air Force,Ground Vehicles,Products,187159483.0
+2007,Air Force,ICT,Services,3373160217.0
+2007,Air Force,Launchers & Munitions,Products,1209558999.0
+2007,Air Force,MED,Services,325214938.0
+2007,Air Force,Missiles & Space,Products,2458401538.0
+2007,Air Force,Other,Products,1988157712.0
+2007,Air Force,PAMS,Services,14945391663.0
+2007,Air Force,Adv. Component Dev. & Prototypes (6.4),R&D,1547334080.0
+2007,Air Force,Adv. Technology Dev. (6.3),R&D,2087157881.0
+2007,Air Force,Applied Research (6.2),R&D,3553693298.0
+2007,Air Force,Basic Research (6.1),R&D,1958356534.0
+2007,Air Force,Operation of Government R&D Facilities,R&D,22794886.0
+2007,Air Force,Operational Systems Dev. (6.7),R&D,1192159091.0
+2007,Air Force,System Dev. & Demonstration (6.5),R&D,3259690680.0
+2007,Air Force,Ships,Products,3365280.0
+2007,Army,Aircraft,Products,5636128065.0
+2007,Army,Clothing & Subsistence,Products,2679752966.0
+2007,Army,Electronics & Communications,Products,11279400646.0
+2007,Army,Engines & Power Plants,Products,1914219643.0
+2007,Army,ERS,Services,4308480086.0
+2007,Army,FRS&C,Services,24480154393.0
+2007,Army,Fuels,Products,40983711.0
+2007,Army,Ground Vehicles,Products,19053756267.0
+2007,Army,ICT,Services,3233775418.0
+2007,Army,Launchers & Munitions,Products,7235290031.0
+2007,Army,MED,Services,1067822970.0
+2007,Army,Missiles & Space,Products,3153506024.0
+2007,Army,Other,Products,12555896584.0
+2007,Army,PAMS,Services,29453778708.0
+2007,Army,Adv. Component Dev. & Prototypes (6.4),R&D,1111359145.0
+2007,Army,Adv. Technology Dev. (6.3),R&D,2780664407.0
+2007,Army,Applied Research (6.2),R&D,1519765175.0
+2007,Army,Basic Research (6.1),R&D,2100804907.0
+2007,Army,Operation of Government R&D Facilities,R&D,20749008.0
+2007,Army,Operational Systems Dev. (6.7),R&D,234985536.0
+2007,Army,System Dev. & Demonstration (6.5),R&D,4115358663.0
+2007,Army,Ships,Products,100282050.0
+2007,DLA,Aircraft,Products,827775153.0
+2007,DLA,Clothing & Subsistence,Products,11299740500.0
+2007,DLA,Electronics & Communications,Products,1029148449.0
+2007,DLA,Engines & Power Plants,Products,930907937.0
+2007,DLA,ERS,Services,190556175.0
+2007,DLA,FRS&C,Services,1559593759.0
+2007,DLA,Fuels,Products,14540250292.0
+2007,DLA,Ground Vehicles,Products,638883006.0
+2007,DLA,ICT,Services,376249514.0
+2007,DLA,Launchers & Munitions,Products,135175253.0
+2007,DLA,MED,Services,1236822.0
+2007,DLA,Missiles & Space,Products,23061942.0
+2007,DLA,Other,Products,3584300162.0
+2007,DLA,PAMS,Services,310592856.0
+2007,DLA,Adv. Component Dev. & Prototypes (6.4),R&D,7222661.0
+2007,DLA,Adv. Technology Dev. (6.3),R&D,147718.0
+2007,DLA,Basic Research (6.1),R&D,6251490.0
+2007,DLA,System Dev. & Demonstration (6.5),R&D,4099160.0
+2007,DLA,Ships,Products,315098521.0
+2007,MDA,Clothing & Subsistence,Products,4616.0
+2007,MDA,Electronics & Communications,Products,3291453.0
+2007,MDA,Engines & Power Plants,Products,-458.0
+2007,MDA,ERS,Services,1558385.0
+2007,MDA,FRS&C,Services,53434863.0
+2007,MDA,Ground Vehicles,Products,94470.0
+2007,MDA,ICT,Services,33167061.0
+2007,MDA,Missiles & Space,Products,2953063162.0
+2007,MDA,Other,Products,4326105.0
+2007,MDA,PAMS,Services,348806182.0
+2007,MDA,Adv. Component Dev. & Prototypes (6.4),R&D,537757663.0
+2007,MDA,Adv. Technology Dev. (6.3),R&D,1358989425.0
+2007,MDA,Applied Research (6.2),R&D,254269366.0
+2007,MDA,Basic Research (6.1),R&D,203119014.0
+2007,MDA,Operation of Government R&D Facilities,R&D,-594984.0
+2007,MDA,System Dev. & Demonstration (6.5),R&D,8363726.0
+2007,Navy,Aircraft,Products,11939997991.0
+2007,Navy,Clothing & Subsistence,Products,598785404.0
+2007,Navy,Electronics & Communications,Products,7260763656.0
+2007,Navy,Engines & Power Plants,Products,2732718549.0
+2007,Navy,ERS,Services,8305366100.0
+2007,Navy,FRS&C,Services,7978015100.0
+2007,Navy,Fuels,Products,22497390.0
+2007,Navy,Ground Vehicles,Products,4965426678.0
+2007,Navy,ICT,Services,6053861713.0
+2007,Navy,Launchers & Munitions,Products,2305523169.0
+2007,Navy,MED,Services,532384848.0
+2007,Navy,Missiles & Space,Products,3998547586.0
+2007,Navy,Other,Products,3664832906.0
+2007,Navy,PAMS,Services,11525146262.0
+2007,Navy,Adv. Component Dev. & Prototypes (6.4),R&D,872402590.0
+2007,Navy,Adv. Technology Dev. (6.3),R&D,3409538258.0
+2007,Navy,Applied Research (6.2),R&D,1047914498.0
+2007,Navy,Basic Research (6.1),R&D,1220779664.0
+2007,Navy,Operation of Government R&D Facilities,R&D,629338187.0
+2007,Navy,Operational Systems Dev. (6.7),R&D,882118452.0
+2007,Navy,System Dev. & Demonstration (6.5),R&D,10170469097.0
+2007,Navy,Ships,Products,10119441636.0
+2007,Other DoD,Aircraft,Products,370705996.0
+2007,Other DoD,Clothing & Subsistence,Products,34796288.0
+2007,Other DoD,Electronics & Communications,Products,1254503761.0
+2007,Other DoD,Engines & Power Plants,Products,19640320.0
+2007,Other DoD,ERS,Services,673573382.0
+2007,Other DoD,FRS&C,Services,476494447.0
+2007,Other DoD,Fuels,Products,66763.0
+2007,Other DoD,Ground Vehicles,Products,28557555.0
+2007,Other DoD,ICT,Services,4486585462.0
+2007,Other DoD,Launchers & Munitions,Products,53244259.0
+2007,Other DoD,MED,Services,10591228742.0
+2007,Other DoD,Missiles & Space,Products,18045221.0
+2007,Other DoD,Other,Products,143183124.0
+2007,Other DoD,PAMS,Services,1962242630.0
+2007,Other DoD,Adv. Component Dev. & Prototypes (6.4),R&D,258202323.0
+2007,Other DoD,Adv. Technology Dev. (6.3),R&D,542626209.0
+2007,Other DoD,Applied Research (6.2),R&D,571765672.0
+2007,Other DoD,Basic Research (6.1),R&D,87419314.0
+2007,Other DoD,Operational Systems Dev. (6.7),R&D,5484353.0
+2007,Other DoD,System Dev. & Demonstration (6.5),R&D,40219425.0
+2007,Other DoD,Ships,Products,65799778.0
+2008,Air Force,Aircraft,Products,15410983460.0
+2008,Air Force,Clothing & Subsistence,Products,187951895.0
+2008,Air Force,Electronics & Communications,Products,4369470492.0
+2008,Air Force,Engines & Power Plants,Products,2329758366.0
+2008,Air Force,ERS,Services,7366702373.0
+2008,Air Force,FRS&C,Services,6535624283.0
+2008,Air Force,Fuels,Products,19758275.0
+2008,Air Force,Ground Vehicles,Products,90564846.0
+2008,Air Force,ICT,Services,3095842725.0
+2008,Air Force,Launchers & Munitions,Products,1008159820.0
+2008,Air Force,MED,Services,335504300.0
+2008,Air Force,Missiles & Space,Products,3296896305.0
+2008,Air Force,Other,Products,1783509873.0
+2008,Air Force,PAMS,Services,12420621418.0
+2008,Air Force,Adv. Component Dev. & Prototypes (6.4),R&D,1435656271.0
+2008,Air Force,Adv. Technology Dev. (6.3),R&D,1643431962.0
+2008,Air Force,Applied Research (6.2),R&D,4141959217.0
+2008,Air Force,Basic Research (6.1),R&D,1926495972.0
+2008,Air Force,Operation of Government R&D Facilities,R&D,28330070.0
+2008,Air Force,Operational Systems Dev. (6.7),R&D,1290275417.0
+2008,Air Force,System Dev. & Demonstration (6.5),R&D,3140577742.0
+2008,Air Force,Ships,Products,5313201.0
+2008,Army,Aircraft,Products,11103300249.0
+2008,Army,Clothing & Subsistence,Products,2031057370.0
+2008,Army,Electronics & Communications,Products,13475788906.0
+2008,Army,Engines & Power Plants,Products,1914743818.0
+2008,Army,ERS,Services,5231956268.0
+2008,Army,FRS&C,Services,48236223749.0
+2008,Army,Fuels,Products,63845870.0
+2008,Army,Ground Vehicles,Products,24607916809.0
+2008,Army,ICT,Services,3912202418.0
+2008,Army,Launchers & Munitions,Products,9151790976.0
+2008,Army,MED,Services,1049494339.0
+2008,Army,Missiles & Space,Products,5095609878.0
+2008,Army,Other,Products,16340265898.0
+2008,Army,PAMS,Services,34256620453.0
+2008,Army,Adv. Component Dev. & Prototypes (6.4),R&D,1250396898.0
+2008,Army,Adv. Technology Dev. (6.3),R&D,2895058510.0
+2008,Army,Applied Research (6.2),R&D,1351438599.0
+2008,Army,Basic Research (6.1),R&D,2053593912.0
+2008,Army,Operation of Government R&D Facilities,R&D,30469448.0
+2008,Army,Operational Systems Dev. (6.7),R&D,245911616.0
+2008,Army,System Dev. & Demonstration (6.5),R&D,3778009689.0
+2008,Army,Ships,Products,104826399.0
+2008,DLA,Aircraft,Products,1814638250.0
+2008,DLA,Clothing & Subsistence,Products,11808450281.0
+2008,DLA,Electronics & Communications,Products,1261286245.0
+2008,DLA,Engines & Power Plants,Products,1010308388.0
+2008,DLA,ERS,Services,146599212.0
+2008,DLA,FRS&C,Services,845784628.0
+2008,DLA,Fuels,Products,16149334010.0
+2008,DLA,Ground Vehicles,Products,1343120655.0
+2008,DLA,ICT,Services,471131780.0
+2008,DLA,Launchers & Munitions,Products,165042043.0
+2008,DLA,MED,Services,1827494.0
+2008,DLA,Missiles & Space,Products,24972574.0
+2008,DLA,Other,Products,4602802634.0
+2008,DLA,PAMS,Services,416644750.0
+2008,DLA,Adv. Component Dev. & Prototypes (6.4),R&D,235747.0
+2008,DLA,Adv. Technology Dev. (6.3),R&D,877987.0
+2008,DLA,Basic Research (6.1),R&D,14442839.0
+2008,DLA,Operational Systems Dev. (6.7),R&D,886447.0
+2008,DLA,System Dev. & Demonstration (6.5),R&D,4772872.0
+2008,DLA,Ships,Products,247136026.0
+2008,MDA,Electronics & Communications,Products,2491071.0
+2008,MDA,Engines & Power Plants,Products,618548.0
+2008,MDA,ERS,Services,902902.0
+2008,MDA,FRS&C,Services,54927596.0
+2008,MDA,Ground Vehicles,Products,204201.0
+2008,MDA,ICT,Services,-195389.0
+2008,MDA,Missiles & Space,Products,3009705654.0
+2008,MDA,Other,Products,1057438.0
+2008,MDA,PAMS,Services,402102743.0
+2008,MDA,Adv. Component Dev. & Prototypes (6.4),R&D,542868295.0
+2008,MDA,Adv. Technology Dev. (6.3),R&D,1274643706.0
+2008,MDA,Applied Research (6.2),R&D,303734317.0
+2008,MDA,Basic Research (6.1),R&D,524428375.0
+2008,MDA,Operation of Government R&D Facilities,R&D,1620206.0
+2008,MDA,System Dev. & Demonstration (6.5),R&D,384561878.0
+2008,Navy,Aircraft,Products,16068013622.0
+2008,Navy,Clothing & Subsistence,Products,565316706.0
+2008,Navy,Electronics & Communications,Products,6879769751.0
+2008,Navy,Engines & Power Plants,Products,3790867584.0
+2008,Navy,ERS,Services,7191267352.0
+2008,Navy,FRS&C,Services,9915333508.0
+2008,Navy,Fuels,Products,23953836.0
+2008,Navy,Ground Vehicles,Products,10617767751.0
+2008,Navy,ICT,Services,5982801509.0
+2008,Navy,Launchers & Munitions,Products,1903168306.0
+2008,Navy,MED,Services,548737018.0
+2008,Navy,Missiles & Space,Products,4271217894.0
+2008,Navy,Other,Products,2720700663.0
+2008,Navy,PAMS,Services,12229872386.0
+2008,Navy,Adv. Component Dev. & Prototypes (6.4),R&D,1065061724.0
+2008,Navy,Adv. Technology Dev. (6.3),R&D,3369455932.0
+2008,Navy,Applied Research (6.2),R&D,869408171.0
+2008,Navy,Basic Research (6.1),R&D,979353136.0
+2008,Navy,Operation of Government R&D Facilities,R&D,598307539.0
+2008,Navy,Operational Systems Dev. (6.7),R&D,635261224.0
+2008,Navy,System Dev. & Demonstration (6.5),R&D,7299931086.0
+2008,Navy,Ships,Products,11352630338.0
+2008,Other DoD,Aircraft,Products,578492578.0
+2008,Other DoD,Clothing & Subsistence,Products,71430661.0
+2008,Other DoD,Electronics & Communications,Products,1353364475.0
+2008,Other DoD,Engines & Power Plants,Products,14904525.0
+2008,Other DoD,ERS,Services,2951357372.0
+2008,Other DoD,FRS&C,Services,407802123.0
+2008,Other DoD,Fuels,Products,61806.0
+2008,Other DoD,Ground Vehicles,Products,33651482.0
+2008,Other DoD,ICT,Services,3961599628.0
+2008,Other DoD,Launchers & Munitions,Products,39975063.0
+2008,Other DoD,MED,Services,10347700231.0
+2008,Other DoD,Missiles & Space,Products,6803506.0
+2008,Other DoD,Other,Products,226152193.0
+2008,Other DoD,PAMS,Services,4544412600.0
+2008,Other DoD,Adv. Component Dev. & Prototypes (6.4),R&D,153117996.0
+2008,Other DoD,Adv. Technology Dev. (6.3),R&D,502958608.0
+2008,Other DoD,Applied Research (6.2),R&D,745752396.0
+2008,Other DoD,Basic Research (6.1),R&D,106588005.0
+2008,Other DoD,Operational Systems Dev. (6.7),R&D,9187322.0
+2008,Other DoD,System Dev. & Demonstration (6.5),R&D,42097655.0
+2008,Other DoD,Ships,Products,114422773.0
+2009,Air Force,Aircraft,Products,14566005067.0
+2009,Air Force,Clothing & Subsistence,Products,220286354.0
+2009,Air Force,Electronics & Communications,Products,3965280998.0
+2009,Air Force,Engines & Power Plants,Products,1737789709.0
+2009,Air Force,ERS,Services,8072160178.0
+2009,Air Force,FRS&C,Services,7549394319.0
+2009,Air Force,Fuels,Products,26823949.0
+2009,Air Force,Ground Vehicles,Products,77473333.0
+2009,Air Force,ICT,Services,3130840619.0
+2009,Air Force,Launchers & Munitions,Products,1049502790.0
+2009,Air Force,MED,Services,316822619.0
+2009,Air Force,Missiles & Space,Products,5254444346.0
+2009,Air Force,Other,Products,1966566085.0
+2009,Air Force,PAMS,Services,13282799691.0
+2009,Air Force,Adv. Component Dev. & Prototypes (6.4),R&D,1333800787.0
+2009,Air Force,Adv. Technology Dev. (6.3),R&D,2689635211.0
+2009,Air Force,Applied Research (6.2),R&D,3902525551.0
+2009,Air Force,Basic Research (6.1),R&D,2237797888.0
+2009,Air Force,Operation of Government R&D Facilities,R&D,22911251.0
+2009,Air Force,Operational Systems Dev. (6.7),R&D,1416956446.0
+2009,Air Force,System Dev. & Demonstration (6.5),R&D,3582171837.0
+2009,Air Force,Ships,Products,6675653.0
+2009,Army,Aircraft,Products,8433631487.0
+2009,Army,Clothing & Subsistence,Products,2410234199.0
+2009,Army,Electronics & Communications,Products,12247005226.0
+2009,Army,Engines & Power Plants,Products,2357626870.0
+2009,Army,ERS,Services,5907970372.0
+2009,Army,FRS&C,Services,24385962973.0
+2009,Army,Fuels,Products,262759892.0
+2009,Army,Ground Vehicles,Products,19374595263.0
+2009,Army,ICT,Services,4016453676.0
+2009,Army,Launchers & Munitions,Products,7734842770.0
+2009,Army,MED,Services,1189901521.0
+2009,Army,Missiles & Space,Products,5925286794.0
+2009,Army,Other,Products,9398616861.0
+2009,Army,PAMS,Services,35025112422.0
+2009,Army,Adv. Component Dev. & Prototypes (6.4),R&D,1197005183.0
+2009,Army,Adv. Technology Dev. (6.3),R&D,2525470399.0
+2009,Army,Applied Research (6.2),R&D,1527222774.0
+2009,Army,Basic Research (6.1),R&D,1726276235.0
+2009,Army,Operation of Government R&D Facilities,R&D,20259849.0
+2009,Army,Operational Systems Dev. (6.7),R&D,152241451.0
+2009,Army,System Dev. & Demonstration (6.5),R&D,3700068105.0
+2009,Army,Ships,Products,157569250.0
+2009,DLA,Aircraft,Products,2213902690.0
+2009,DLA,Clothing & Subsistence,Products,9999076685.0
+2009,DLA,Electronics & Communications,Products,1241302646.0
+2009,DLA,Engines & Power Plants,Products,1556449357.0
+2009,DLA,ERS,Services,132502671.0
+2009,DLA,FRS&C,Services,680479989.0
+2009,DLA,Fuels,Products,20786006764.0
+2009,DLA,Ground Vehicles,Products,1180514363.0
+2009,DLA,ICT,Services,476449405.0
+2009,DLA,Launchers & Munitions,Products,114686042.0
+2009,DLA,MED,Services,3710546.0
+2009,DLA,Missiles & Space,Products,67966234.0
+2009,DLA,Other,Products,3505580186.0
+2009,DLA,PAMS,Services,438154388.0
+2009,DLA,Adv. Component Dev. & Prototypes (6.4),R&D,1394298.0
+2009,DLA,Adv. Technology Dev. (6.3),R&D,514131.0
+2009,DLA,Applied Research (6.2),R&D,5713759.0
+2009,DLA,Basic Research (6.1),R&D,25315560.0
+2009,DLA,Operation of Government R&D Facilities,R&D,58171.0
+2009,DLA,System Dev. & Demonstration (6.5),R&D,21282226.0
+2009,DLA,Ships,Products,369026308.0
+2009,MDA,Electronics & Communications,Products,2820495.0
+2009,MDA,Engines & Power Plants,Products,549489.0
+2009,MDA,ERS,Services,-24319.0
+2009,MDA,FRS&C,Services,38574568.0
+2009,MDA,Ground Vehicles,Products,411873.0
+2009,MDA,ICT,Services,359644.0
+2009,MDA,Missiles & Space,Products,1960977641.0
+2009,MDA,Other,Products,1014135.0
+2009,MDA,PAMS,Services,564102044.0
+2009,MDA,Adv. Component Dev. & Prototypes (6.4),R&D,1200491640.0
+2009,MDA,Adv. Technology Dev. (6.3),R&D,1158483535.0
+2009,MDA,Applied Research (6.2),R&D,498027160.0
+2009,MDA,Basic Research (6.1),R&D,603595730.0
+2009,MDA,Operation of Government R&D Facilities,R&D,-34564.0
+2009,MDA,Operational Systems Dev. (6.7),R&D,18374.0
+2009,MDA,System Dev. & Demonstration (6.5),R&D,363445309.0
+2009,Navy,Aircraft,Products,16164775531.0
+2009,Navy,Clothing & Subsistence,Products,906105263.0
+2009,Navy,Electronics & Communications,Products,6214961886.0
+2009,Navy,Engines & Power Plants,Products,4411215499.0
+2009,Navy,ERS,Services,7650363435.0
+2009,Navy,FRS&C,Services,10830216926.0
+2009,Navy,Fuels,Products,19243855.0
+2009,Navy,Ground Vehicles,Products,3946397955.0
+2009,Navy,ICT,Services,6136831963.0
+2009,Navy,Launchers & Munitions,Products,2272135096.0
+2009,Navy,MED,Services,587200128.0
+2009,Navy,Missiles & Space,Products,2236918951.0
+2009,Navy,Other,Products,2810518516.0
+2009,Navy,PAMS,Services,14369649268.0
+2009,Navy,Adv. Component Dev. & Prototypes (6.4),R&D,2222187862.0
+2009,Navy,Adv. Technology Dev. (6.3),R&D,3076398666.0
+2009,Navy,Applied Research (6.2),R&D,870110522.0
+2009,Navy,Basic Research (6.1),R&D,838395774.0
+2009,Navy,Operation of Government R&D Facilities,R&D,103767885.0
+2009,Navy,Operational Systems Dev. (6.7),R&D,463557751.0
+2009,Navy,System Dev. & Demonstration (6.5),R&D,7860541041.0
+2009,Navy,Ships,Products,13904781193.0
+2009,Other DoD,Aircraft,Products,754647572.0
+2009,Other DoD,Clothing & Subsistence,Products,23781335.0
+2009,Other DoD,Electronics & Communications,Products,1302593308.0
+2009,Other DoD,Engines & Power Plants,Products,4947037.0
+2009,Other DoD,ERS,Services,2811938636.0
+2009,Other DoD,FRS&C,Services,463945260.0
+2009,Other DoD,Fuels,Products,592659.0
+2009,Other DoD,Ground Vehicles,Products,6607185.0
+2009,Other DoD,ICT,Services,4741944195.0
+2009,Other DoD,Launchers & Munitions,Products,29396689.0
+2009,Other DoD,MED,Services,13311078123.0
+2009,Other DoD,Missiles & Space,Products,3563418.0
+2009,Other DoD,Other,Products,294630176.0
+2009,Other DoD,PAMS,Services,4659116805.0
+2009,Other DoD,Adv. Component Dev. & Prototypes (6.4),R&D,208617065.0
+2009,Other DoD,Adv. Technology Dev. (6.3),R&D,695860692.0
+2009,Other DoD,Applied Research (6.2),R&D,949342219.0
+2009,Other DoD,Basic Research (6.1),R&D,81549725.0
+2009,Other DoD,Operation of Government R&D Facilities,R&D,-822.0
+2009,Other DoD,Operational Systems Dev. (6.7),R&D,-626854.0
+2009,Other DoD,System Dev. & Demonstration (6.5),R&D,64116649.0
+2009,Other DoD,Ships,Products,135091538.0
+2010,Air Force,Aircraft,Products,14897677321.0
+2010,Air Force,Clothing & Subsistence,Products,196829491.0
+2010,Air Force,Electronics & Communications,Products,3565799379.0
+2010,Air Force,Engines & Power Plants,Products,1608386864.0
+2010,Air Force,ERS,Services,7557401348.0
+2010,Air Force,FRS&C,Services,6501703655.0
+2010,Air Force,Fuels,Products,14585608.0
+2010,Air Force,Ground Vehicles,Products,60238895.0
+2010,Air Force,ICT,Services,2583887743.0
+2010,Air Force,Launchers & Munitions,Products,1260245385.0
+2010,Air Force,MED,Services,345741147.0
+2010,Air Force,Missiles & Space,Products,4347907119.0
+2010,Air Force,Other,Products,1718712918.0
+2010,Air Force,PAMS,Services,12499243009.0
+2010,Air Force,Adv. Component Dev. & Prototypes (6.4),R&D,1221301695.0
+2010,Air Force,Adv. Technology Dev. (6.3),R&D,1811654783.0
+2010,Air Force,Applied Research (6.2),R&D,4220387421.0
+2010,Air Force,Basic Research (6.1),R&D,2326669902.0
+2010,Air Force,Operation of Government R&D Facilities,R&D,11161653.0
+2010,Air Force,Operational Systems Dev. (6.7),R&D,1505816116.0
+2010,Air Force,System Dev. & Demonstration (6.5),R&D,3743721184.0
+2010,Air Force,Ships,Products,5875766.0
+2010,Army,Aircraft,Products,9123307403.0
+2010,Army,Clothing & Subsistence,Products,2421264923.0
+2010,Army,Electronics & Communications,Products,11192685963.0
+2010,Army,Engines & Power Plants,Products,1650685820.0
+2010,Army,ERS,Services,5955419416.0
+2010,Army,FRS&C,Services,35113282293.0
+2010,Army,Fuels,Products,311257026.0
+2010,Army,Ground Vehicles,Products,18049978004.0
+2010,Army,ICT,Services,4710307742.0
+2010,Army,Launchers & Munitions,Products,7371743759.0
+2010,Army,MED,Services,1228416083.0
+2010,Army,Missiles & Space,Products,5029706697.0
+2010,Army,Other,Products,8273032854.0
+2010,Army,PAMS,Services,36161681519.0
+2010,Army,Adv. Component Dev. & Prototypes (6.4),R&D,1293322987.0
+2010,Army,Adv. Technology Dev. (6.3),R&D,2513172451.0
+2010,Army,Applied Research (6.2),R&D,1746625143.0
+2010,Army,Basic Research (6.1),R&D,1455383787.0
+2010,Army,Operation of Government R&D Facilities,R&D,1806473.0
+2010,Army,Operational Systems Dev. (6.7),R&D,165892063.0
+2010,Army,System Dev. & Demonstration (6.5),R&D,2327420112.0
+2010,Army,Ships,Products,105912581.0
+2010,DLA,Aircraft,Products,2799756534.0
+2010,DLA,Clothing & Subsistence,Products,10624230991.0
+2010,DLA,Electronics & Communications,Products,1431688311.0
+2010,DLA,Engines & Power Plants,Products,2058059477.0
+2010,DLA,ERS,Services,112097423.0
+2010,DLA,FRS&C,Services,1127378266.0
+2010,DLA,Fuels,Products,13357830222.0
+2010,DLA,Ground Vehicles,Products,1403820077.0
+2010,DLA,ICT,Services,646227710.0
+2010,DLA,Launchers & Munitions,Products,174492408.0
+2010,DLA,MED,Services,7517780.0
+2010,DLA,Missiles & Space,Products,50693198.0
+2010,DLA,Other,Products,3697968287.0
+2010,DLA,PAMS,Services,376873075.0
+2010,DLA,Adv. Component Dev. & Prototypes (6.4),R&D,138944.0
+2010,DLA,Adv. Technology Dev. (6.3),R&D,121844.0
+2010,DLA,Applied Research (6.2),R&D,34427017.0
+2010,DLA,Basic Research (6.1),R&D,25178277.0
+2010,DLA,System Dev. & Demonstration (6.5),R&D,-1300127.0
+2010,DLA,Ships,Products,847628087.0
+2010,MDA,Electronics & Communications,Products,1368166.0
+2010,MDA,Engines & Power Plants,Products,39029.0
+2010,MDA,ERS,Services,37778902.0
+2010,MDA,FRS&C,Services,31881352.0
+2010,MDA,Ground Vehicles,Products,71504.0
+2010,MDA,ICT,Services,10726914.0
+2010,MDA,Missiles & Space,Products,1459485971.0
+2010,MDA,Other,Products,9025368.0
+2010,MDA,PAMS,Services,453884397.0
+2010,MDA,Adv. Component Dev. & Prototypes (6.4),R&D,1391760416.0
+2010,MDA,Adv. Technology Dev. (6.3),R&D,583557370.0
+2010,MDA,Applied Research (6.2),R&D,648364871.0
+2010,MDA,Basic Research (6.1),R&D,1200070007.0
+2010,MDA,Operation of Government R&D Facilities,R&D,-143411.0
+2010,MDA,Operational Systems Dev. (6.7),R&D,17927.0
+2010,MDA,System Dev. & Demonstration (6.5),R&D,115020791.0
+2010,Navy,Aircraft,Products,13040874433.0
+2010,Navy,Clothing & Subsistence,Products,795724607.0
+2010,Navy,Electronics & Communications,Products,7532236317.0
+2010,Navy,Engines & Power Plants,Products,3700629615.0
+2010,Navy,ERS,Services,6732496349.0
+2010,Navy,FRS&C,Services,10239452100.0
+2010,Navy,Fuels,Products,21356508.0
+2010,Navy,Ground Vehicles,Products,4212315003.0
+2010,Navy,ICT,Services,4995458991.0
+2010,Navy,Launchers & Munitions,Products,2208719408.0
+2010,Navy,MED,Services,679983816.0
+2010,Navy,Missiles & Space,Products,3122668304.0
+2010,Navy,Other,Products,3234446539.0
+2010,Navy,PAMS,Services,13668582748.0
+2010,Navy,Adv. Component Dev. & Prototypes (6.4),R&D,2538365932.0
+2010,Navy,Adv. Technology Dev. (6.3),R&D,2457687115.0
+2010,Navy,Applied Research (6.2),R&D,818188873.0
+2010,Navy,Basic Research (6.1),R&D,616280245.0
+2010,Navy,Operation of Government R&D Facilities,R&D,71191875.0
+2010,Navy,Operational Systems Dev. (6.7),R&D,384482564.0
+2010,Navy,System Dev. & Demonstration (6.5),R&D,6528669057.0
+2010,Navy,Ships,Products,10112455639.0
+2010,Other DoD,Aircraft,Products,716786952.0
+2010,Other DoD,Clothing & Subsistence,Products,4158559.0
+2010,Other DoD,Electronics & Communications,Products,1545234946.0
+2010,Other DoD,Engines & Power Plants,Products,-24381446.0
+2010,Other DoD,ERS,Services,3010906531.0
+2010,Other DoD,FRS&C,Services,357964577.0
+2010,Other DoD,Fuels,Products,219786.0
+2010,Other DoD,Ground Vehicles,Products,-258550490.0
+2010,Other DoD,ICT,Services,5649656444.0
+2010,Other DoD,Launchers & Munitions,Products,24708704.0
+2010,Other DoD,MED,Services,12092836518.0
+2010,Other DoD,Missiles & Space,Products,-1577052.0
+2010,Other DoD,Other,Products,295599840.0
+2010,Other DoD,PAMS,Services,5069691717.0
+2010,Other DoD,Adv. Component Dev. & Prototypes (6.4),R&D,182601285.0
+2010,Other DoD,Adv. Technology Dev. (6.3),R&D,896933187.0
+2010,Other DoD,Applied Research (6.2),R&D,1150645515.0
+2010,Other DoD,Basic Research (6.1),R&D,123232123.0
+2010,Other DoD,Operational Systems Dev. (6.7),R&D,-1021952.0
+2010,Other DoD,System Dev. & Demonstration (6.5),R&D,-3067109.0
+2010,Other DoD,Ships,Products,146414342.0
+2011,Air Force,Aircraft,Products,15581081541.0
+2011,Air Force,Clothing & Subsistence,Products,155424179.0
+2011,Air Force,Electronics & Communications,Products,3549023359.0
+2011,Air Force,Engines & Power Plants,Products,1091401904.0
+2011,Air Force,ERS,Services,7901242071.0
+2011,Air Force,FRS&C,Services,5793557357.0
+2011,Air Force,Fuels,Products,16490135.0
+2011,Air Force,Ground Vehicles,Products,75457699.0
+2011,Air Force,ICT,Services,2334888792.0
+2011,Air Force,Launchers & Munitions,Products,1326163578.0
+2011,Air Force,MED,Services,402555303.0
+2011,Air Force,Missiles & Space,Products,4428237197.0
+2011,Air Force,Other,Products,1799634937.0
+2011,Air Force,PAMS,Services,11737155869.0
+2011,Air Force,Adv. Component Dev. & Prototypes (6.4),R&D,1172525244.0
+2011,Air Force,Adv. Technology Dev. (6.3),R&D,1539912713.0
+2011,Air Force,Applied Research (6.2),R&D,5261720393.0
+2011,Air Force,Basic Research (6.1),R&D,2026811264.0
+2011,Air Force,Operation of Government R&D Facilities,R&D,4881269.0
+2011,Air Force,Operational Systems Dev. (6.7),R&D,1421442464.0
+2011,Air Force,System Dev. & Demonstration (6.5),R&D,3274323031.0
+2011,Air Force,Ships,Products,74833719.0
+2011,Army,Aircraft,Products,10110010804.0
+2011,Army,Clothing & Subsistence,Products,2497848862.0
+2011,Army,Electronics & Communications,Products,8594347566.0
+2011,Army,Engines & Power Plants,Products,1505221691.0
+2011,Army,ERS,Services,5726285124.0
+2011,Army,FRS&C,Services,28467111443.0
+2011,Army,Fuels,Products,409596934.0
+2011,Army,Ground Vehicles,Products,12886394480.0
+2011,Army,ICT,Services,4459864361.0
+2011,Army,Launchers & Munitions,Products,5581401177.0
+2011,Army,MED,Services,1332468074.0
+2011,Army,Missiles & Space,Products,5410342915.0
+2011,Army,Other,Products,7231268222.0
+2011,Army,PAMS,Services,32992284626.0
+2011,Army,Adv. Component Dev. & Prototypes (6.4),R&D,1088869427.0
+2011,Army,Adv. Technology Dev. (6.3),R&D,2188816657.0
+2011,Army,Applied Research (6.2),R&D,1884917207.0
+2011,Army,Basic Research (6.1),R&D,1288090816.0
+2011,Army,Operation of Government R&D Facilities,R&D,1422815.0
+2011,Army,Operational Systems Dev. (6.7),R&D,253689232.0
+2011,Army,System Dev. & Demonstration (6.5),R&D,1663691613.0
+2011,Army,Ships,Products,55057197.0
+2011,DLA,Aircraft,Products,2893999527.0
+2011,DLA,Clothing & Subsistence,Products,9970320956.0
+2011,DLA,Electronics & Communications,Products,1508888061.0
+2011,DLA,Engines & Power Plants,Products,1847941013.0
+2011,DLA,ERS,Services,118318271.0
+2011,DLA,FRS&C,Services,997663964.0
+2011,DLA,Fuels,Products,14724348719.0
+2011,DLA,Ground Vehicles,Products,1067148172.0
+2011,DLA,ICT,Services,773242811.0
+2011,DLA,Launchers & Munitions,Products,198505415.0
+2011,DLA,MED,Services,8084388.0
+2011,DLA,Missiles & Space,Products,30831237.0
+2011,DLA,Other,Products,3897698242.0
+2011,DLA,PAMS,Services,311249461.0
+2011,DLA,Adv. Component Dev. & Prototypes (6.4),R&D,199649.0
+2011,DLA,Adv. Technology Dev. (6.3),R&D,16260.0
+2011,DLA,Applied Research (6.2),R&D,32811451.0
+2011,DLA,Basic Research (6.1),R&D,24667359.0
+2011,DLA,System Dev. & Demonstration (6.5),R&D,2155712.0
+2011,DLA,Ships,Products,799633095.0
+2011,MDA,Aircraft,Products,30597.0
+2011,MDA,Clothing & Subsistence,Products,59275.0
+2011,MDA,Electronics & Communications,Products,4794736.0
+2011,MDA,Engines & Power Plants,Products,16008.0
+2011,MDA,ERS,Services,70079845.0
+2011,MDA,FRS&C,Services,31773433.0
+2011,MDA,Ground Vehicles,Products,504353.0
+2011,MDA,ICT,Services,3138717.0
+2011,MDA,Missiles & Space,Products,2349960644.0
+2011,MDA,Other,Products,7342462.0
+2011,MDA,PAMS,Services,449565866.0
+2011,MDA,Adv. Component Dev. & Prototypes (6.4),R&D,1029623314.0
+2011,MDA,Adv. Technology Dev. (6.3),R&D,491284580.0
+2011,MDA,Applied Research (6.2),R&D,432069436.0
+2011,MDA,Basic Research (6.1),R&D,945679758.0
+2011,MDA,Operation of Government R&D Facilities,R&D,-378926.0
+2011,MDA,System Dev. & Demonstration (6.5),R&D,18609551.0
+2011,Navy,Aircraft,Products,18303488934.0
+2011,Navy,Clothing & Subsistence,Products,694040226.0
+2011,Navy,Electronics & Communications,Products,6143038329.0
+2011,Navy,Engines & Power Plants,Products,5496820263.0
+2011,Navy,ERS,Services,7515927047.0
+2011,Navy,FRS&C,Services,9927868267.0
+2011,Navy,Fuels,Products,27756035.0
+2011,Navy,Ground Vehicles,Products,3807061809.0
+2011,Navy,ICT,Services,6191177636.0
+2011,Navy,Launchers & Munitions,Products,2420294979.0
+2011,Navy,MED,Services,603469993.0
+2011,Navy,Missiles & Space,Products,2935358633.0
+2011,Navy,Other,Products,3100808472.0
+2011,Navy,PAMS,Services,13038725583.0
+2011,Navy,Adv. Component Dev. & Prototypes (6.4),R&D,2464338152.0
+2011,Navy,Adv. Technology Dev. (6.3),R&D,1906034027.0
+2011,Navy,Applied Research (6.2),R&D,751975762.0
+2011,Navy,Basic Research (6.1),R&D,487908801.0
+2011,Navy,Operation of Government R&D Facilities,R&D,94765595.0
+2011,Navy,Operational Systems Dev. (6.7),R&D,494566800.0
+2011,Navy,System Dev. & Demonstration (6.5),R&D,5961197567.0
+2011,Navy,Ships,Products,20413787319.0
+2011,Other DoD,Aircraft,Products,1033914067.0
+2011,Other DoD,Clothing & Subsistence,Products,23736007.0
+2011,Other DoD,Electronics & Communications,Products,1422303966.0
+2011,Other DoD,Engines & Power Plants,Products,-16230215.0
+2011,Other DoD,ERS,Services,5255503486.0
+2011,Other DoD,FRS&C,Services,241532621.0
+2011,Other DoD,Fuels,Products,508812.0
+2011,Other DoD,Ground Vehicles,Products,-267963181.0
+2011,Other DoD,ICT,Services,5750081532.0
+2011,Other DoD,Launchers & Munitions,Products,28285870.0
+2011,Other DoD,MED,Services,12747454346.0
+2011,Other DoD,Missiles & Space,Products,-15742151.0
+2011,Other DoD,Other,Products,220658696.0
+2011,Other DoD,PAMS,Services,5659535810.0
+2011,Other DoD,Adv. Component Dev. & Prototypes (6.4),R&D,147582219.0
+2011,Other DoD,Adv. Technology Dev. (6.3),R&D,1104862110.0
+2011,Other DoD,Applied Research (6.2),R&D,1062943383.0
+2011,Other DoD,Basic Research (6.1),R&D,93992484.0
+2011,Other DoD,Operational Systems Dev. (6.7),R&D,-5250356.0
+2011,Other DoD,System Dev. & Demonstration (6.5),R&D,12098068.0
+2011,Other DoD,Ships,Products,156416828.0
+2012,Air Force,Aircraft,Products,18730496550.0
+2012,Air Force,Clothing & Subsistence,Products,103930090.0
+2012,Air Force,Electronics & Communications,Products,3729027082.0
+2012,Air Force,Engines & Power Plants,Products,663899509.0
+2012,Air Force,ERS,Services,9598835710.0
+2012,Air Force,FRS&C,Services,5030560194.0
+2012,Air Force,Fuels,Products,18436215.0
+2012,Air Force,Ground Vehicles,Products,138768056.0
+2012,Air Force,ICT,Services,2092091544.0
+2012,Air Force,Launchers & Munitions,Products,1041618299.0
+2012,Air Force,MED,Services,402545265.0
+2012,Air Force,Missiles & Space,Products,5245939372.0
+2012,Air Force,Other,Products,1714953997.0
+2012,Air Force,PAMS,Services,13406651817.0
+2012,Air Force,Adv. Component Dev. & Prototypes (6.4),R&D,710987455.0
+2012,Air Force,Adv. Technology Dev. (6.3),R&D,1791289463.0
+2012,Air Force,Applied Research (6.2),R&D,4557610975.0
+2012,Air Force,Basic Research (6.1),R&D,1868124155.0
+2012,Air Force,Operation of Government R&D Facilities,R&D,577534.0
+2012,Air Force,Operational Systems Dev. (6.7),R&D,900344876.0
+2012,Air Force,System Dev. & Demonstration (6.5),R&D,3364515751.0
+2012,Air Force,Ships,Products,66271592.0
+2012,Army,Aircraft,Products,11914104835.0
+2012,Army,Clothing & Subsistence,Products,1212194904.0
+2012,Army,Electronics & Communications,Products,7898495578.0
+2012,Army,Engines & Power Plants,Products,1548039968.0
+2012,Army,ERS,Services,5369808301.0
+2012,Army,FRS&C,Services,26284403711.0
+2012,Army,Fuels,Products,513276062.0
+2012,Army,Ground Vehicles,Products,6380552887.0
+2012,Army,ICT,Services,4009783536.0
+2012,Army,Launchers & Munitions,Products,4916578530.0
+2012,Army,MED,Services,1286983533.0
+2012,Army,Missiles & Space,Products,4304951724.0
+2012,Army,Other,Products,4850574030.0
+2012,Army,PAMS,Services,27659000292.0
+2012,Army,Adv. Component Dev. & Prototypes (6.4),R&D,1315853394.0
+2012,Army,Adv. Technology Dev. (6.3),R&D,2402232775.0
+2012,Army,Applied Research (6.2),R&D,1742446924.0
+2012,Army,Basic Research (6.1),R&D,1170657715.0
+2012,Army,Operation of Government R&D Facilities,R&D,526309.0
+2012,Army,Operational Systems Dev. (6.7),R&D,203909740.0
+2012,Army,System Dev. & Demonstration (6.5),R&D,227677702.0
+2012,Army,Ships,Products,214312567.0
+2012,DLA,Aircraft,Products,2638942723.0
+2012,DLA,Clothing & Subsistence,Products,9462487303.0
+2012,DLA,Electronics & Communications,Products,1842156815.0
+2012,DLA,Engines & Power Plants,Products,1766334224.0
+2012,DLA,ERS,Services,119581208.0
+2012,DLA,FRS&C,Services,765880881.0
+2012,DLA,Fuels,Products,22482287841.0
+2012,DLA,Ground Vehicles,Products,1074397137.0
+2012,DLA,ICT,Services,513685021.0
+2012,DLA,Launchers & Munitions,Products,226002733.0
+2012,DLA,MED,Services,4344322.0
+2012,DLA,Missiles & Space,Products,45293470.0
+2012,DLA,Other,Products,3520380936.0
+2012,DLA,PAMS,Services,349553297.0
+2012,DLA,Adv. Component Dev. & Prototypes (6.4),R&D,0.0
+2012,DLA,Adv. Technology Dev. (6.3),R&D,20436.0
+2012,DLA,Applied Research (6.2),R&D,2403985.0
+2012,DLA,Basic Research (6.1),R&D,22261790.0
+2012,DLA,System Dev. & Demonstration (6.5),R&D,333458.0
+2012,DLA,Ships,Products,1051156196.0
+2012,MDA,Clothing & Subsistence,Products,0.0
+2012,MDA,Electronics & Communications,Products,5920063.0
+2012,MDA,Engines & Power Plants,Products,-26112.0
+2012,MDA,ERS,Services,62085531.0
+2012,MDA,FRS&C,Services,28420738.0
+2012,MDA,Ground Vehicles,Products,155634.0
+2012,MDA,ICT,Services,41492440.0
+2012,MDA,Launchers & Munitions,Products,297197826.0
+2012,MDA,Missiles & Space,Products,3957108979.0
+2012,MDA,Other,Products,2588502.0
+2012,MDA,PAMS,Services,526707897.0
+2012,MDA,Adv. Component Dev. & Prototypes (6.4),R&D,618458243.0
+2012,MDA,Adv. Technology Dev. (6.3),R&D,490658432.0
+2012,MDA,Applied Research (6.2),R&D,455206179.0
+2012,MDA,Basic Research (6.1),R&D,819156018.0
+2012,MDA,Operation of Government R&D Facilities,R&D,-1785262.0
+2012,MDA,System Dev. & Demonstration (6.5),R&D,4969836.0
+2012,Navy,Aircraft,Products,18887773800.0
+2012,Navy,Clothing & Subsistence,Products,429919940.0
+2012,Navy,Electronics & Communications,Products,5563546019.0
+2012,Navy,Engines & Power Plants,Products,5139534868.0
+2012,Navy,ERS,Services,7055910047.0
+2012,Navy,FRS&C,Services,8934128448.0
+2012,Navy,Fuels,Products,34409588.0
+2012,Navy,Ground Vehicles,Products,2044025237.0
+2012,Navy,ICT,Services,5861262953.0
+2012,Navy,Launchers & Munitions,Products,1952591300.0
+2012,Navy,MED,Services,415025496.0
+2012,Navy,Missiles & Space,Products,3583139429.0
+2012,Navy,Other,Products,2462965394.0
+2012,Navy,PAMS,Services,11564427350.0
+2012,Navy,Adv. Component Dev. & Prototypes (6.4),R&D,2087783817.0
+2012,Navy,Adv. Technology Dev. (6.3),R&D,1578265752.0
+2012,Navy,Applied Research (6.2),R&D,973153932.0
+2012,Navy,Basic Research (6.1),R&D,446984742.0
+2012,Navy,Operation of Government R&D Facilities,R&D,64144072.0
+2012,Navy,Operational Systems Dev. (6.7),R&D,525131271.0
+2012,Navy,System Dev. & Demonstration (6.5),R&D,5160741068.0
+2012,Navy,Ships,Products,15778980239.0
+2012,Other DoD,Aircraft,Products,708583896.0
+2012,Other DoD,Clothing & Subsistence,Products,39133770.0
+2012,Other DoD,Electronics & Communications,Products,1784145002.0
+2012,Other DoD,Engines & Power Plants,Products,-12701243.0
+2012,Other DoD,ERS,Services,6276452291.0
+2012,Other DoD,FRS&C,Services,236574480.0
+2012,Other DoD,Fuels,Products,2421684.0
+2012,Other DoD,Ground Vehicles,Products,-20920865.0
+2012,Other DoD,ICT,Services,5463538996.0
+2012,Other DoD,Launchers & Munitions,Products,27727303.0
+2012,Other DoD,MED,Services,12458695131.0
+2012,Other DoD,Missiles & Space,Products,2065245.0
+2012,Other DoD,Other,Products,144968446.0
+2012,Other DoD,PAMS,Services,5259942130.0
+2012,Other DoD,Adv. Component Dev. & Prototypes (6.4),R&D,179365730.0
+2012,Other DoD,Adv. Technology Dev. (6.3),R&D,1044181669.0
+2012,Other DoD,Applied Research (6.2),R&D,698472349.0
+2012,Other DoD,Basic Research (6.1),R&D,113844775.0
+2012,Other DoD,Operational Systems Dev. (6.7),R&D,-7341886.0
+2012,Other DoD,System Dev. & Demonstration (6.5),R&D,-36585110.0
+2012,Other DoD,Ships,Products,159958643.0
+2013,Air Force,Aircraft,Products,13095536665.0
+2013,Air Force,Clothing & Subsistence,Products,81129231.0
+2013,Air Force,Electronics & Communications,Products,3187737411.0
+2013,Air Force,Engines & Power Plants,Products,1102058973.0
+2013,Air Force,ERS,Services,8157728751.0
+2013,Air Force,FRS&C,Services,4089741072.0
+2013,Air Force,Fuels,Products,3678116.0
+2013,Air Force,Ground Vehicles,Products,76088077.0
+2013,Air Force,ICT,Services,1920804077.0
+2013,Air Force,Launchers & Munitions,Products,1142239810.0
+2013,Air Force,MED,Services,348177305.0
+2013,Air Force,Missiles & Space,Products,2804101282.0
+2013,Air Force,Other,Products,1234182405.0
+2013,Air Force,PAMS,Services,10759213191.0
+2013,Air Force,Adv. Component Dev. & Prototypes (6.4),R&D,370769797.0
+2013,Air Force,Adv. Technology Dev. (6.3),R&D,1241681448.0
+2013,Air Force,Applied Research (6.2),R&D,4210793600.0
+2013,Air Force,Basic Research (6.1),R&D,1496776526.0
+2013,Air Force,Operation of Government R&D Facilities,R&D,-184517.0
+2013,Air Force,Operational Systems Dev. (6.7),R&D,632917039.0
+2013,Air Force,System Dev. & Demonstration (6.5),R&D,1798286728.0
+2013,Air Force,Ships,Products,3193416.0
+2013,Army,Aircraft,Products,9537019791.0
+2013,Army,Clothing & Subsistence,Products,857982018.0
+2013,Army,Electronics & Communications,Products,5548726600.0
+2013,Army,Engines & Power Plants,Products,890816263.0
+2013,Army,ERS,Services,4729571636.0
+2013,Army,FRS&C,Services,20481632938.0
+2013,Army,Fuels,Products,490428510.0
+2013,Army,Ground Vehicles,Products,4280640869.0
+2013,Army,ICT,Services,3635711944.0
+2013,Army,Launchers & Munitions,Products,3549755647.0
+2013,Army,MED,Services,951890740.0
+2013,Army,Missiles & Space,Products,3172168796.0
+2013,Army,Other,Products,3514199673.0
+2013,Army,PAMS,Services,24627977989.0
+2013,Army,Adv. Component Dev. & Prototypes (6.4),R&D,821303901.0
+2013,Army,Adv. Technology Dev. (6.3),R&D,1401805659.0
+2013,Army,Applied Research (6.2),R&D,873561304.0
+2013,Army,Basic Research (6.1),R&D,914002449.0
+2013,Army,Operational Systems Dev. (6.7),R&D,358088376.0
+2013,Army,System Dev. & Demonstration (6.5),R&D,223673618.0
+2013,Army,Ships,Products,107989332.0
+2013,DLA,Aircraft,Products,2044598012.0
+2013,DLA,Clothing & Subsistence,Products,8539334095.0
+2013,DLA,Electronics & Communications,Products,1633848467.0
+2013,DLA,Engines & Power Plants,Products,1562094141.0
+2013,DLA,ERS,Services,108176542.0
+2013,DLA,FRS&C,Services,983478495.0
+2013,DLA,Fuels,Products,14396398987.0
+2013,DLA,Ground Vehicles,Products,683350720.0
+2013,DLA,ICT,Services,546023688.0
+2013,DLA,Launchers & Munitions,Products,239291992.0
+2013,DLA,MED,Services,9561508.0
+2013,DLA,Missiles & Space,Products,26805950.0
+2013,DLA,Other,Products,3246139177.0
+2013,DLA,PAMS,Services,459953053.0
+2013,DLA,Adv. Technology Dev. (6.3),R&D,0.0
+2013,DLA,Applied Research (6.2),R&D,1221010.0
+2013,DLA,Basic Research (6.1),R&D,15691438.0
+2013,DLA,System Dev. & Demonstration (6.5),R&D,1350560.0
+2013,DLA,Ships,Products,914325888.0
+2013,MDA,Clothing & Subsistence,Products,28100.0
+2013,MDA,Electronics & Communications,Products,13388796.0
+2013,MDA,ERS,Services,50281977.0
+2013,MDA,FRS&C,Services,29540678.0
+2013,MDA,Ground Vehicles,Products,580495.0
+2013,MDA,ICT,Services,54039630.0
+2013,MDA,Launchers & Munitions,Products,317954308.0
+2013,MDA,Missiles & Space,Products,4997717968.0
+2013,MDA,Other,Products,1848103.0
+2013,MDA,PAMS,Services,526914556.0
+2013,MDA,Adv. Component Dev. & Prototypes (6.4),R&D,399452340.0
+2013,MDA,Adv. Technology Dev. (6.3),R&D,392365737.0
+2013,MDA,Applied Research (6.2),R&D,550003204.0
+2013,MDA,Basic Research (6.1),R&D,739459709.0
+2013,MDA,Operation of Government R&D Facilities,R&D,-2479209.0
+2013,MDA,System Dev. & Demonstration (6.5),R&D,9103155.0
+2013,Navy,Aircraft,Products,26305591442.0
+2013,Navy,Clothing & Subsistence,Products,456294633.0
+2013,Navy,Electronics & Communications,Products,5433092907.0
+2013,Navy,Engines & Power Plants,Products,4663904169.0
+2013,Navy,ERS,Services,6808068560.0
+2013,Navy,FRS&C,Services,7259781118.0
+2013,Navy,Fuels,Products,33846869.0
+2013,Navy,Ground Vehicles,Products,373808951.0
+2013,Navy,ICT,Services,4894487703.0
+2013,Navy,Launchers & Munitions,Products,1788922582.0
+2013,Navy,MED,Services,367610529.0
+2013,Navy,Missiles & Space,Products,3579882104.0
+2013,Navy,Other,Products,1955775333.0
+2013,Navy,PAMS,Services,10019736836.0
+2013,Navy,Adv. Component Dev. & Prototypes (6.4),R&D,2048245856.0
+2013,Navy,Adv. Technology Dev. (6.3),R&D,1428002177.0
+2013,Navy,Applied Research (6.2),R&D,754173221.0
+2013,Navy,Basic Research (6.1),R&D,307915304.0
+2013,Navy,Operation of Government R&D Facilities,R&D,44187236.0
+2013,Navy,Operational Systems Dev. (6.7),R&D,487637549.0
+2013,Navy,System Dev. & Demonstration (6.5),R&D,4688744603.0
+2013,Navy,Ships,Products,14699427236.0
+2013,Other DoD,Aircraft,Products,411152561.0
+2013,Other DoD,Clothing & Subsistence,Products,15494134.0
+2013,Other DoD,Electronics & Communications,Products,1745673944.0
+2013,Other DoD,Engines & Power Plants,Products,-18350991.0
+2013,Other DoD,ERS,Services,3231522011.0
+2013,Other DoD,FRS&C,Services,264253143.0
+2013,Other DoD,Fuels,Products,3638513.0
+2013,Other DoD,Ground Vehicles,Products,14425279.0
+2013,Other DoD,ICT,Services,4536427156.0
+2013,Other DoD,Launchers & Munitions,Products,-1633676.0
+2013,Other DoD,MED,Services,12338104739.0
+2013,Other DoD,Missiles & Space,Products,6009944.0
+2013,Other DoD,Other,Products,125594102.0
+2013,Other DoD,PAMS,Services,5911342426.0
+2013,Other DoD,Adv. Component Dev. & Prototypes (6.4),R&D,264387981.0
+2013,Other DoD,Adv. Technology Dev. (6.3),R&D,709413721.0
+2013,Other DoD,Applied Research (6.2),R&D,593893357.0
+2013,Other DoD,Basic Research (6.1),R&D,118127787.0
+2013,Other DoD,Operation of Government R&D Facilities,R&D,-27572.0
+2013,Other DoD,Operational Systems Dev. (6.7),R&D,-2345634.0
+2013,Other DoD,System Dev. & Demonstration (6.5),R&D,18328451.0
+2013,Other DoD,Ships,Products,46568189.0
+2014,Air Force,Aircraft,Products,11305256165.0
+2014,Air Force,Clothing & Subsistence,Products,122508985.0
+2014,Air Force,Electronics & Communications,Products,3236278557.0
+2014,Air Force,Engines & Power Plants,Products,1345122248.0
+2014,Air Force,ERS,Services,9406579415.0
+2014,Air Force,FRS&C,Services,5045117015.0
+2014,Air Force,Fuels,Products,12071692.0
+2014,Air Force,Ground Vehicles,Products,105520837.0
+2014,Air Force,ICT,Services,1664993086.0
+2014,Air Force,Launchers & Munitions,Products,645557663.0
+2014,Air Force,MED,Services,385846190.0
+2014,Air Force,Missiles & Space,Products,2850711120.0
+2014,Air Force,Other,Products,1116035745.0
+2014,Air Force,PAMS,Services,10960011420.0
+2014,Air Force,Adv. Component Dev. & Prototypes (6.4),R&D,222684295.0
+2014,Air Force,Adv. Technology Dev. (6.3),R&D,968661215.0
+2014,Air Force,Applied Research (6.2),R&D,4095132726.0
+2014,Air Force,Basic Research (6.1),R&D,1670209205.0
+2014,Air Force,Operational Systems Dev. (6.7),R&D,1033430897.0
+2014,Air Force,System Dev. & Demonstration (6.5),R&D,1487332327.0
+2014,Air Force,Ships,Products,5526262.0
+2014,Army,Aircraft,Products,7096009790.0
+2014,Army,Clothing & Subsistence,Products,922375806.0
+2014,Army,Electronics & Communications,Products,5099592970.0
+2014,Army,Engines & Power Plants,Products,672438841.0
+2014,Army,ERS,Services,4549744349.0
+2014,Army,FRS&C,Services,21054073829.0
+2014,Army,Fuels,Products,438111950.0
+2014,Army,Ground Vehicles,Products,3312430533.0
+2014,Army,ICT,Services,3410504191.0
+2014,Army,Launchers & Munitions,Products,3128967726.0
+2014,Army,MED,Services,856697416.0
+2014,Army,Missiles & Space,Products,2749943327.0
+2014,Army,Other,Products,3263673264.0
+2014,Army,PAMS,Services,16630745634.0
+2014,Army,Adv. Component Dev. & Prototypes (6.4),R&D,1116347261.0
+2014,Army,Adv. Technology Dev. (6.3),R&D,1181739241.0
+2014,Army,Applied Research (6.2),R&D,775293973.0
+2014,Army,Basic Research (6.1),R&D,942129836.0
+2014,Army,Operation of Government R&D Facilities,R&D,-19682.0
+2014,Army,Operational Systems Dev. (6.7),R&D,106159806.0
+2014,Army,System Dev. & Demonstration (6.5),R&D,224213136.0
+2014,Army,Ships,Products,135622993.0
+2014,DLA,Aircraft,Products,2320965271.0
+2014,DLA,Clothing & Subsistence,Products,8096031194.0
+2014,DLA,Electronics & Communications,Products,1730458548.0
+2014,DLA,Engines & Power Plants,Products,1400967139.0
+2014,DLA,ERS,Services,75693996.0
+2014,DLA,FRS&C,Services,1002105510.0
+2014,DLA,Fuels,Products,12374648981.0
+2014,DLA,Ground Vehicles,Products,793800152.0
+2014,DLA,ICT,Services,406546713.0
+2014,DLA,Launchers & Munitions,Products,211826854.0
+2014,DLA,MED,Services,2461056.0
+2014,DLA,Missiles & Space,Products,25669407.0
+2014,DLA,Other,Products,3503763131.0
+2014,DLA,PAMS,Services,536580336.0
+2014,DLA,Adv. Technology Dev. (6.3),R&D,1150260.0
+2014,DLA,Applied Research (6.2),R&D,-29916.0
+2014,DLA,Basic Research (6.1),R&D,8174609.0
+2014,DLA,System Dev. & Demonstration (6.5),R&D,7602803.0
+2014,DLA,Ships,Products,857220487.0
+2014,MDA,Electronics & Communications,Products,17734056.0
+2014,MDA,ERS,Services,51987719.0
+2014,MDA,FRS&C,Services,18388115.0
+2014,MDA,Ground Vehicles,Products,2943667.0
+2014,MDA,ICT,Services,49263285.0
+2014,MDA,Launchers & Munitions,Products,38628850.0
+2014,MDA,Missiles & Space,Products,3357989607.0
+2014,MDA,Other,Products,4146443.0
+2014,MDA,PAMS,Services,554799440.0
+2014,MDA,Adv. Component Dev. & Prototypes (6.4),R&D,710258257.0
+2014,MDA,Adv. Technology Dev. (6.3),R&D,277994977.0
+2014,MDA,Applied Research (6.2),R&D,676030235.0
+2014,MDA,Basic Research (6.1),R&D,462906678.0
+2014,MDA,Operation of Government R&D Facilities,R&D,-49322.0
+2014,MDA,System Dev. & Demonstration (6.5),R&D,30963453.0
+2014,Navy,Aircraft,Products,16018119211.0
+2014,Navy,Clothing & Subsistence,Products,280930478.0
+2014,Navy,Electronics & Communications,Products,5158430506.0
+2014,Navy,Engines & Power Plants,Products,4551591046.0
+2014,Navy,ERS,Services,7127386500.0
+2014,Navy,FRS&C,Services,7889295843.0
+2014,Navy,Fuels,Products,27635688.0
+2014,Navy,Ground Vehicles,Products,377869752.0
+2014,Navy,ICT,Services,4242620854.0
+2014,Navy,Launchers & Munitions,Products,2303734475.0
+2014,Navy,MED,Services,387541414.0
+2014,Navy,Missiles & Space,Products,3631203100.0
+2014,Navy,Other,Products,1995143925.0
+2014,Navy,PAMS,Services,10754533214.0
+2014,Navy,Adv. Component Dev. & Prototypes (6.4),R&D,1892365558.0
+2014,Navy,Adv. Technology Dev. (6.3),R&D,977851504.0
+2014,Navy,Applied Research (6.2),R&D,895024327.0
+2014,Navy,Basic Research (6.1),R&D,277575343.0
+2014,Navy,Operation of Government R&D Facilities,R&D,-18099689.0
+2014,Navy,Operational Systems Dev. (6.7),R&D,378673046.0
+2014,Navy,System Dev. & Demonstration (6.5),R&D,2714560013.0
+2014,Navy,Ships,Products,15030963390.0
+2014,Other DoD,Aircraft,Products,53242448.0
+2014,Other DoD,Clothing & Subsistence,Products,47863843.0
+2014,Other DoD,Electronics & Communications,Products,1883468507.0
+2014,Other DoD,Engines & Power Plants,Products,2147907.0
+2014,Other DoD,ERS,Services,3164584396.0
+2014,Other DoD,FRS&C,Services,190962089.0
+2014,Other DoD,Fuels,Products,30721.0
+2014,Other DoD,Ground Vehicles,Products,33322767.0
+2014,Other DoD,ICT,Services,4876272947.0
+2014,Other DoD,Launchers & Munitions,Products,27502798.0
+2014,Other DoD,MED,Services,13050076489.0
+2014,Other DoD,Missiles & Space,Products,13478996.0
+2014,Other DoD,Other,Products,111555060.0
+2014,Other DoD,PAMS,Services,5180034769.0
+2014,Other DoD,Adv. Component Dev. & Prototypes (6.4),R&D,436800418.0
+2014,Other DoD,Adv. Technology Dev. (6.3),R&D,753813785.0
+2014,Other DoD,Applied Research (6.2),R&D,623219274.0
+2014,Other DoD,Basic Research (6.1),R&D,82890517.0
+2014,Other DoD,Operation of Government R&D Facilities,R&D,-839351.0
+2014,Other DoD,Operational Systems Dev. (6.7),R&D,-9261658.0
+2014,Other DoD,System Dev. & Demonstration (6.5),R&D,-80870768.0
+2014,Other DoD,Ships,Products,99839027.0
+2015,Air Force,Aircraft,Products,10346650321.0
+2015,Air Force,Clothing & Subsistence,Products,93842825.0
+2015,Air Force,Electronics & Communications,Products,3032782049.0
+2015,Air Force,Engines & Power Plants,Products,545518131.0
+2015,Air Force,ERS,Services,8815550588.0
+2015,Air Force,FRS&C,Services,4573526290.0
+2015,Air Force,Fuels,Products,18016551.0
+2015,Air Force,Ground Vehicles,Products,124956460.0
+2015,Air Force,ICT,Services,1563739615.0
+2015,Air Force,Launchers & Munitions,Products,798542102.0
+2015,Air Force,MED,Services,423269436.0
+2015,Air Force,Missiles & Space,Products,2272079782.0
+2015,Air Force,Other,Products,1093784652.0
+2015,Air Force,PAMS,Services,11560523654.0
+2015,Air Force,Adv. Component Dev. & Prototypes (6.4),R&D,605019918.0
+2015,Air Force,Adv. Technology Dev. (6.3),R&D,884539382.0
+2015,Air Force,Applied Research (6.2),R&D,3229548120.0
+2015,Air Force,Basic Research (6.1),R&D,1533234792.0
+2015,Air Force,Operational Systems Dev. (6.7),R&D,660546609.0
+2015,Air Force,System Dev. & Demonstration (6.5),R&D,1587519911.0
+2015,Air Force,Ships,Products,12383917.0
+2015,Army,Aircraft,Products,6691120613.0
+2015,Army,Clothing & Subsistence,Products,685671751.0
+2015,Army,Electronics & Communications,Products,4871347261.0
+2015,Army,Engines & Power Plants,Products,451949528.0
+2015,Army,ERS,Services,4513322063.0
+2015,Army,FRS&C,Services,17783547132.0
+2015,Army,Fuels,Products,32521552.0
+2015,Army,Ground Vehicles,Products,4763047619.0
+2015,Army,ICT,Services,3251585472.0
+2015,Army,Launchers & Munitions,Products,2406702399.0
+2015,Army,MED,Services,569550910.0
+2015,Army,Missiles & Space,Products,5113929124.0
+2015,Army,Other,Products,2821407946.0
+2015,Army,PAMS,Services,15509479780.0
+2015,Army,Adv. Component Dev. & Prototypes (6.4),R&D,1103184325.0
+2015,Army,Adv. Technology Dev. (6.3),R&D,1201607867.0
+2015,Army,Applied Research (6.2),R&D,638436879.0
+2015,Army,Basic Research (6.1),R&D,880686458.0
+2015,Army,Operation of Government R&D Facilities,R&D,552019.0
+2015,Army,Operational Systems Dev. (6.7),R&D,158425711.0
+2015,Army,System Dev. & Demonstration (6.5),R&D,182872502.0
+2015,Army,Ships,Products,98696125.0
+2015,DLA,Aircraft,Products,2202942426.0
+2015,DLA,Clothing & Subsistence,Products,8481503597.0
+2015,DLA,Electronics & Communications,Products,1842195609.0
+2015,DLA,Engines & Power Plants,Products,1259568659.0
+2015,DLA,ERS,Services,76070102.0
+2015,DLA,FRS&C,Services,931309938.0
+2015,DLA,Fuels,Products,8679236108.0
+2015,DLA,Ground Vehicles,Products,957437259.0
+2015,DLA,ICT,Services,476657645.0
+2015,DLA,Launchers & Munitions,Products,248484839.0
+2015,DLA,MED,Services,2639492.0
+2015,DLA,Missiles & Space,Products,36808940.0
+2015,DLA,Other,Products,3825540122.0
+2015,DLA,PAMS,Services,371492673.0
+2015,DLA,Applied Research (6.2),R&D,88013.0
+2015,DLA,Basic Research (6.1),R&D,22142101.0
+2015,DLA,System Dev. & Demonstration (6.5),R&D,1972168.0
+2015,DLA,Ships,Products,1067711190.0
+2015,MDA,Electronics & Communications,Products,4313989.0
+2015,MDA,Engines & Power Plants,Products,7861.0
+2015,MDA,ERS,Services,15874268.0
+2015,MDA,FRS&C,Services,25684402.0
+2015,MDA,Ground Vehicles,Products,2493014.0
+2015,MDA,ICT,Services,46394326.0
+2015,MDA,Launchers & Munitions,Products,38589330.0
+2015,MDA,Missiles & Space,Products,2203203611.0
+2015,MDA,Other,Products,44536626.0
+2015,MDA,PAMS,Services,794267286.0
+2015,MDA,Adv. Component Dev. & Prototypes (6.4),R&D,284592409.0
+2015,MDA,Adv. Technology Dev. (6.3),R&D,241222809.0
+2015,MDA,Applied Research (6.2),R&D,624273848.0
+2015,MDA,Basic Research (6.1),R&D,419545791.0
+2015,MDA,System Dev. & Demonstration (6.5),R&D,32262765.0
+2015,Navy,Aircraft,Products,18953549512.0
+2015,Navy,Clothing & Subsistence,Products,218134019.0
+2015,Navy,Electronics & Communications,Products,5853649319.0
+2015,Navy,Engines & Power Plants,Products,6080862285.0
+2015,Navy,ERS,Services,6891510873.0
+2015,Navy,FRS&C,Services,7078556766.0
+2015,Navy,Fuels,Products,28604789.0
+2015,Navy,Ground Vehicles,Products,166245745.0
+2015,Navy,ICT,Services,3510506422.0
+2015,Navy,Launchers & Munitions,Products,2043400032.0
+2015,Navy,MED,Services,377863731.0
+2015,Navy,Missiles & Space,Products,3809418279.0
+2015,Navy,Other,Products,1791774896.0
+2015,Navy,PAMS,Services,9757080206.0
+2015,Navy,Adv. Component Dev. & Prototypes (6.4),R&D,2044960118.0
+2015,Navy,Adv. Technology Dev. (6.3),R&D,764219713.0
+2015,Navy,Applied Research (6.2),R&D,927092987.0
+2015,Navy,Basic Research (6.1),R&D,284394831.0
+2015,Navy,Operation of Government R&D Facilities,R&D,50315435.0
+2015,Navy,Operational Systems Dev. (6.7),R&D,303233995.0
+2015,Navy,System Dev. & Demonstration (6.5),R&D,2578146140.0
+2015,Navy,Ships,Products,12720832302.0
+2015,Other DoD,Aircraft,Products,143546633.0
+2015,Other DoD,Clothing & Subsistence,Products,184777982.0
+2015,Other DoD,Electronics & Communications,Products,1872502733.0
+2015,Other DoD,Engines & Power Plants,Products,-4308808.0
+2015,Other DoD,ERS,Services,2573916393.0
+2015,Other DoD,FRS&C,Services,204605579.0
+2015,Other DoD,Fuels,Products,52352.0
+2015,Other DoD,Ground Vehicles,Products,73352883.0
+2015,Other DoD,ICT,Services,4663178788.0
+2015,Other DoD,Launchers & Munitions,Products,64379124.0
+2015,Other DoD,MED,Services,11521911602.0
+2015,Other DoD,Missiles & Space,Products,-23993149.0
+2015,Other DoD,Other,Products,137352654.0
+2015,Other DoD,PAMS,Services,5387751549.0
+2015,Other DoD,Adv. Component Dev. & Prototypes (6.4),R&D,207004433.0
+2015,Other DoD,Adv. Technology Dev. (6.3),R&D,815367722.0
+2015,Other DoD,Applied Research (6.2),R&D,505032071.0
+2015,Other DoD,Basic Research (6.1),R&D,59098258.0
+2015,Other DoD,Operational Systems Dev. (6.7),R&D,-5363187.0
+2015,Other DoD,System Dev. & Demonstration (6.5),R&D,18313416.0
+2015,Other DoD,Ships,Products,107912048.0
+2016,Air Force,Aircraft,Products,17921805155.0
+2016,Air Force,Clothing & Subsistence,Products,144364844.0
+2016,Air Force,Electronics & Communications,Products,3474161170.0
+2016,Air Force,Engines & Power Plants,Products,416906911.0
+2016,Air Force,ERS,Services,8446148390.0
+2016,Air Force,FRS&C,Services,4230781828.0
+2016,Air Force,Fuels,Products,25057032.0
+2016,Air Force,Ground Vehicles,Products,106501954.0
+2016,Air Force,ICT,Services,2109989225.0
+2016,Air Force,Launchers & Munitions,Products,1844537797.0
+2016,Air Force,MED,Services,442994332.0
+2016,Air Force,Missiles & Space,Products,2850729979.0
+2016,Air Force,Other,Products,1189301306.0
+2016,Air Force,PAMS,Services,12650011495.0
+2016,Air Force,Adv. Component Dev. & Prototypes (6.4),R&D,434386440.0
+2016,Air Force,Adv. Technology Dev. (6.3),R&D,1001782186.0
+2016,Air Force,Applied Research (6.2),R&D,3670065452.0
+2016,Air Force,Basic Research (6.1),R&D,1515951739.0
+2016,Air Force,Operational Systems Dev. (6.7),R&D,721994157.0
+2016,Air Force,System Dev. & Demonstration (6.5),R&D,1545388626.0
+2016,Air Force,Ships,Products,7048531.0
+2016,Army,Aircraft,Products,8705101895.0
+2016,Army,Clothing & Subsistence,Products,625647660.0
+2016,Army,Electronics & Communications,Products,4425858420.0
+2016,Army,Engines & Power Plants,Products,651085521.0
+2016,Army,ERS,Services,5091711529.0
+2016,Army,FRS&C,Services,17157636301.0
+2016,Army,Fuels,Products,98106827.0
+2016,Army,Ground Vehicles,Products,3977426062.0
+2016,Army,ICT,Services,3566767415.0
+2016,Army,Launchers & Munitions,Products,3400870536.0
+2016,Army,MED,Services,547152283.0
+2016,Army,Missiles & Space,Products,3922467403.0
+2016,Army,Other,Products,2580132883.0
+2016,Army,PAMS,Services,14832299569.0
+2016,Army,Adv. Component Dev. & Prototypes (6.4),R&D,1092893976.0
+2016,Army,Adv. Technology Dev. (6.3),R&D,1021456834.0
+2016,Army,Applied Research (6.2),R&D,791983765.0
+2016,Army,Basic Research (6.1),R&D,953238646.0
+2016,Army,Operation of Government R&D Facilities,R&D,26209.0
+2016,Army,Operational Systems Dev. (6.7),R&D,40331344.0
+2016,Army,System Dev. & Demonstration (6.5),R&D,-70448095.0
+2016,Army,Ships,Products,177376621.0
+2016,DLA,Aircraft,Products,2959599975.0
+2016,DLA,Clothing & Subsistence,Products,9512241056.0
+2016,DLA,Electronics & Communications,Products,1821384552.0
+2016,DLA,Engines & Power Plants,Products,1372282800.0
+2016,DLA,ERS,Services,36335169.0
+2016,DLA,FRS&C,Services,799643808.0
+2016,DLA,Fuels,Products,5354244795.0
+2016,DLA,Ground Vehicles,Products,982375258.0
+2016,DLA,ICT,Services,524128334.0
+2016,DLA,Launchers & Munitions,Products,274625481.0
+2016,DLA,MED,Services,1337425.0
+2016,DLA,Missiles & Space,Products,39838120.0
+2016,DLA,Other,Products,4283614792.0
+2016,DLA,PAMS,Services,298640005.0
+2016,DLA,Adv. Technology Dev. (6.3),R&D,450429.0
+2016,DLA,Applied Research (6.2),R&D,66165.0
+2016,DLA,Basic Research (6.1),R&D,23798192.0
+2016,DLA,Ships,Products,1214438628.0
+2016,MDA,Aircraft,Products,111147.0
+2016,MDA,Clothing & Subsistence,Products,5005.0
+2016,MDA,Electronics & Communications,Products,103629824.0
+2016,MDA,ERS,Services,141527749.0
+2016,MDA,FRS&C,Services,39323098.0
+2016,MDA,Ground Vehicles,Products,-314853.0
+2016,MDA,ICT,Services,61765243.0
+2016,MDA,Launchers & Munitions,Products,10321022.0
+2016,MDA,Missiles & Space,Products,3689424918.0
+2016,MDA,Other,Products,5400458.0
+2016,MDA,PAMS,Services,836878798.0
+2016,MDA,Adv. Component Dev. & Prototypes (6.4),R&D,352789182.0
+2016,MDA,Adv. Technology Dev. (6.3),R&D,215872059.0
+2016,MDA,Applied Research (6.2),R&D,664506126.0
+2016,MDA,Basic Research (6.1),R&D,428502750.0
+2016,MDA,Operation of Government R&D Facilities,R&D,75798.0
+2016,MDA,System Dev. & Demonstration (6.5),R&D,16081685.0
+2016,Navy,Aircraft,Products,20954082614.0
+2016,Navy,Clothing & Subsistence,Products,185073220.0
+2016,Navy,Electronics & Communications,Products,5825114026.0
+2016,Navy,Engines & Power Plants,Products,6769773853.0
+2016,Navy,ERS,Services,7225242095.0
+2016,Navy,FRS&C,Services,7562874254.0
+2016,Navy,Fuels,Products,17975700.0
+2016,Navy,Ground Vehicles,Products,254032379.0
+2016,Navy,ICT,Services,3545968040.0
+2016,Navy,Launchers & Munitions,Products,4294079481.0
+2016,Navy,MED,Services,349293482.0
+2016,Navy,Missiles & Space,Products,2070380331.0
+2016,Navy,Other,Products,1863296187.0
+2016,Navy,PAMS,Services,10030512885.0
+2016,Navy,Adv. Component Dev. & Prototypes (6.4),R&D,2660925728.0
+2016,Navy,Adv. Technology Dev. (6.3),R&D,892974177.0
+2016,Navy,Applied Research (6.2),R&D,967658544.0
+2016,Navy,Basic Research (6.1),R&D,249485938.0
+2016,Navy,Operation of Government R&D Facilities,R&D,53767619.0
+2016,Navy,Operational Systems Dev. (6.7),R&D,213173719.0
+2016,Navy,System Dev. & Demonstration (6.5),R&D,2234686919.0
+2016,Navy,Ships,Products,14006159114.0
+2016,Other DoD,Aircraft,Products,129749248.0
+2016,Other DoD,Clothing & Subsistence,Products,147897963.0
+2016,Other DoD,Electronics & Communications,Products,2008903896.0
+2016,Other DoD,Engines & Power Plants,Products,-11719045.0
+2016,Other DoD,ERS,Services,2105658724.0
+2016,Other DoD,FRS&C,Services,203667527.0
+2016,Other DoD,Fuels,Products,46098.0
+2016,Other DoD,Ground Vehicles,Products,50260212.0
+2016,Other DoD,ICT,Services,5081839607.0
+2016,Other DoD,Launchers & Munitions,Products,157073032.0
+2016,Other DoD,MED,Services,12015128174.0
+2016,Other DoD,Missiles & Space,Products,-19305294.0
+2016,Other DoD,Other,Products,104431120.0
+2016,Other DoD,PAMS,Services,5275596140.0
+2016,Other DoD,Adv. Component Dev. & Prototypes (6.4),R&D,197109956.0
+2016,Other DoD,Adv. Technology Dev. (6.3),R&D,745138011.0
+2016,Other DoD,Applied Research (6.2),R&D,535378457.0
+2016,Other DoD,Basic Research (6.1),R&D,96736036.0
+2016,Other DoD,Operational Systems Dev. (6.7),R&D,-20469058.0
+2016,Other DoD,System Dev. & Demonstration (6.5),R&D,19381332.0
+2016,Other DoD,Ships,Products,87516793.0

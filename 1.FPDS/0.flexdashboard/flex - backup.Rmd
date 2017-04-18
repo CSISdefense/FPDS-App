@@ -1,0 +1,87 @@
+---
+title: 
+output: 
+  flexdashboard::flex_dashboard:
+    logo: logo-6.png
+    theme: lumen 
+    social: menu
+   
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+DoD Overall 
+=======================================================================
+
+```{r echo = FALSE}
+
+shinyAppFile("app.attempt.R", options=list(width="100%", height=840))
+
+
+```
+
+Army | Navy | Air Force  
+=======================================================================
+
+```{r echo = FALSE}
+
+
+shinyAppFile("6a.R", options=list(width="100%", height=840))
+
+
+```
+
+Platform Portfolio 
+=======================================================================
+
+```{r echo = FALSE}
+
+
+shinyAppFile("5a.R", options=list(width="100%", height=840))
+
+
+```
+
+
+Vendor Size  
+=======================================================================
+
+```{r echo = FALSE}
+
+
+shinyAppFile("2a.R", options=list(width="100%", height=840))
+
+
+```
+
+Customer  
+=======================================================================
+
+```{r echo = FALSE}
+
+
+shinyAppFile("3a.R", options=list(width="100%", height=840))
+
+
+```
+
+Area 
+=======================================================================
+
+```{r echo = FALSE}
+
+
+shinyAppFile("4a.R", options=list(width="100%", height=840))
+
+
+```
+
+Contract Type
+=======================================================================
+
+Competition Level 
+=======================================================================
+

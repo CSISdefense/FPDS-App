@@ -1,0 +1,10 @@
+name: GlobalSecurityForum
+account: csis-beta
+server: shinyapps.io
+appId: 140659
+bundleId: 627943
+url: https://csis-beta.shinyapps.io/GlobalSecurityForum/
+when: 1480364150.54054
+asMultiple: TRUE
+asStatic: FALSE
+ignoredFiles: logo-6.png|app.attempt.R|6a.R|5a.R|2a.R|3a.R|4a.R|flex - backup.Rmd|logo 5.png|app.R|2.R|3.R|4.R|flex - Copy.Rmd

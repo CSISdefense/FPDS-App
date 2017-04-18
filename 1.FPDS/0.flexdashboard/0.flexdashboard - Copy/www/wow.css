@@ -1,0 +1,5 @@
+$('#input-1').checkboxpicker({
+  html: true,
+  offLabel: '<span class="glyphicon glyphicon-remove">',
+  onLabel: '<span class="glyphicon glyphicon-ok">'
+});
